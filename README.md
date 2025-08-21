@@ -99,11 +99,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Dimm-CodeVerse&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimm-CodeVerse&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Contributions snake game</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Dimm-CodeVerse/Dimm-CodeVerse/output/snake.svg" alt="Snake animation" />
 
 </div>
 

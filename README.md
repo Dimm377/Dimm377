@@ -23,7 +23,7 @@
 
 - Linux enthusiast 🐧with a strong foundation in **Fullstack Web Development and Cybersecurity**
 - Passionate about building **secure, scalable, and maintainable applications**
-- Lifelong learner dedicated to **exploring and mastering modern techstack, building responsive and secure websites, practicing ethical hacking and**
+- Lifelong learner dedicated to **exploring and mastering modern techstack, building responsive and secure websites,ethical hacking**
 
 
 ### 🧠 Currently Learning on :

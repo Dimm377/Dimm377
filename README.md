@@ -24,16 +24,14 @@
 - Linux enthusiast 🐧with a strong foundation in **Fullstack Web Development and Cybersecurity**
 - Passionate about building **secure, scalable, and maintainable applications**
 - Lifelong learner dedicated to **exploring and mastering modern techstack, building responsive and secure websites, practicing ethical hacking and**
-- Commited to staying updates with **emerging techonologies and industry standarts**
+
 
 ### 🧠 Currently Learning on :
 
 - Build **secure, responsive, and purposeful websites** following **OWASP's top 10 standards** 🔒
 - Practicing **etichal hacking & penetration testing** in controlled environments
 - Learning about Web3 technologies and decentralized application development
-- Exploring **red team operations, web deployment strategies, and various aspects of modern technology.**
 
-#### Prioritizing trust, quality, and satisfaction. ✨
 
 #### Ask me about **linux, modern techstack, and cyber security** 💬
 ---
@@ -95,9 +93,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Dimm-CodeVerse&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimm-CodeVerse&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 </div>

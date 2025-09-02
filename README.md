@@ -86,7 +86,7 @@
 
 
 
-# 🛡️SECURITY TOOLS
+# 🛡️SECURITY STACK
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-00678F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)

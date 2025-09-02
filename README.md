@@ -1,6 +1,6 @@
 <div align="center">
 
-![Dimm377](img/github-header-banner.png)
+![Dimm377](Downloads/github-header-banner.png)
   
 # 👋 Hey, I'm Dimas — a passionate Developer and Cyber Security enthusiast 
 </div>

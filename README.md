@@ -1,6 +1,6 @@
 <div align="center">
 
-![Dimm377](./github-header-banner.png)
+![Dimm377](./github-header-baner.png)
 </div>
 
 <div align="center">

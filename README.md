@@ -103,8 +103,8 @@
 ###
 
 <div align="center">
- 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yu353i3a6hxa26ise5oo23j23a)[![Recently Played Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yu353i3a6hxa26ise5oo23j23a)](https://open.spotify.com/Dimm./31yu353i3a6hxa26ise5oo23j23a?si=761c5e5760334de0)
+  
+ [![Recently Played Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yu353i3a6hxa26ise5oo23j23a)](https://open.spotify.com/Dimm./31yu353i3a6hxa26ise5oo23j23a?si=761c5e5760334de0)
 
 </div>
 

@@ -39,7 +39,7 @@
 <br>
 <div align="center" style="max-width: 100%; display: block;">
 
-![black and white l GIF](https://github.com/user-attachments/assets/aae521fb-9758-48ba-822b-8ded267e2d67)
+![lawliet](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW13NXkybm5vbW5nMmhmNXZ4YWp3cGp5ODV0eHQ1d2F5djA4MjR1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif)
 
 
 <div align="center" width: 100%; max-width: 400px; margin: 10px;>

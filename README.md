@@ -93,7 +93,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2E7EEA?style=for-the-badge&logo=https://nmap.org/images/nmap-project-logo.png&logoColor=white)
-
+![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge)
 </div>
 
 <img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />

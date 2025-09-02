@@ -107,7 +107,6 @@
 ###
 <div align="center">
   
- [![Recently Played Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yu353i3a6hxa26ise5oo23j23a)](https://open.spotify.com/user/31yu353i3a6hxa26ise5oo23j23a?si=34045c156b8b4d60)
 
 </div>
 

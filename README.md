@@ -97,7 +97,8 @@
 
 
 </div>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yu353i3a6hxa26ise5oo23j23a&unique={true|1|on|yes})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yu353i3a6hxa26ise5oo23j23a)
 
 
 

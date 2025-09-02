@@ -101,7 +101,12 @@
 <img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimm377&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Dimm377&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
+###
 <div align="center">
   
  [![Recently Played Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31yu353i3a6hxa26ise5oo23j23a)](https://open.spotify.com/user/31yu353i3a6hxa26ise5oo23j23a?si=34045c156b8b4d60)
@@ -112,10 +117,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-</div>
+
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

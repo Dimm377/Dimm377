@@ -1,4 +1,6 @@
 <div align="center">
+
+![Header](./github-header-banner.png)
   
 # 👋 Hey, I'm Dimas — a passionate Developer and Cyber Security enthusiast 
 </div>

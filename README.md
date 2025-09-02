@@ -39,8 +39,8 @@
 <br>
 <div align="center" style="max-width: 100%; display: block;">
 
-
 ![black and white l GIF](https://github.com/user-attachments/assets/aae521fb-9758-48ba-822b-8ded267e2d67)
+
 
 <div align="center" width: 100%; max-width: 400px; margin: 10px;>
   
@@ -81,8 +81,6 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=linux" height="42" alt="linux logo"  />
 </div>
-
-
 
 
 

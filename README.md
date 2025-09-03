@@ -41,6 +41,7 @@
   
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" />](https://steamcommunity.com/profiles/76561199666348785/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />](https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="40" />](https://open.spotify.com/user/31yu353i3a6hxa26ise5oo23j23a?si=9f1a4c0d95d1422e)
 
 
 ---

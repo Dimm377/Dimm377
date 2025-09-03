@@ -18,9 +18,7 @@
 ### 🎓 Member of :
 
 [<img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/>](https://tryhackme.com)
-<a href="https://fullstack.id/">
-  <img src="https://fullstack.id/assets/images/logo.svg" width="100"/>
-</a>
+
 
 ### 👨‍💻 Fact about me :
 

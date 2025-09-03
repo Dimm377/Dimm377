@@ -36,14 +36,9 @@
 #### Ask me about **linux, modern techstack, and cyber security** 💬
 ### Connect with me on 🌐
 <div align="left">
-<p align="left">
-  <a href="https://steamcommunity.com/profiles/76561199666348785/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="30" style="margin-right:35px;" />
-  </a>
-  <a href="https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />
-  </a>
-</p>
+  
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" />](https://steamcommunity.com/profiles/76561199666348785/)
+
 </div>
 --
 

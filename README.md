@@ -38,11 +38,11 @@
 ### Connect with me on 🌐
 ## Find me on 🌐
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />](https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />](https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4)
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" />](https://steamcommunity.com/profiles/76561199666348785/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="30" />](https://steamcommunity.com/profiles/76561199666348785/)
 
---
+
 <div align="center" style="max-width: 100%; display: block;">
 
 ![lawliet](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW13NXkybm5vbW5nMmhmNXZ4YWp3cGp5ODV0eHQ1d2F5djA4MjR1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif)

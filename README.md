@@ -36,13 +36,25 @@
 #### Ask me about **linux, modern techstack, and cyber security** 💬
 ### Connect with me on 🌐
 <div align="left">
-  
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />](https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4)
+  ## Find me on 🌐
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="30" />](https://steamcommunity.com/profiles/76561199666348785/)
+<p align="left">
+  <a href="https://steamcommunity.com/id/usernamekustomlu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" style="margin-right:15px;" />
+  </a>
+  <a href="https://discord.com/users/IDdiscordlu">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" width="40" style="margin-right:15px;" />
+  </a>
+  <a href="https://open.spotify.com/user/usernamekustomlu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="40" style="margin-right:15px;" />
+  </a>
+  <a href="https://instagram.com/usernameiglu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
+  </a>
+</p>
+
 
 </div>
-
 --
 
 <div align="center" style="max-width: 100%; display: block;">

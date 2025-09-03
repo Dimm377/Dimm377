@@ -36,7 +36,7 @@
 #### Ask me about **linux, modern techstack, and cyber security** 💬
 ---
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" />](https://steamcommunity.com/profiles/76561199666348785/)
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />](https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4)
 <br>
 <div align="center" style="max-width: 100%; display: block;">
 

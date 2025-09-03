@@ -82,8 +82,7 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=react" height="42" alt="react logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="nodejs logo"  />
-  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="42" alt="express logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="42" alt="nestjs logo"  />

@@ -36,7 +36,6 @@
 #### Ask me about **linux, modern techstack, and cyber security** 💬
 ---
 ### Connect with me on 🌐
-## Find me on 🌐
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" />](https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4)
 

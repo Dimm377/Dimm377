@@ -35,6 +35,7 @@
 
 #### Ask me about **linux, modern techstack, and cyber security** 💬
 ---
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" />](https://steamcommunity.com/profiles/76561199666348785/)
 
 <br>
 <div align="center" style="max-width: 100%; display: block;">

@@ -18,6 +18,9 @@
 ### 🎓 Member of :
 
 [<img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/>](https://tryhackme.com)
+<a href="https://www.kelasfullstack.id/">
+ <img src="https://image.web.id/images/Logo-Kelasfullstack-by-codepolitan.png" alt="logo" width="40" >
+</a>
 
 
 ### 👨‍💻 Fact about me :

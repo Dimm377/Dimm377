@@ -94,8 +94,6 @@
   <img width="9" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="9" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="9" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 

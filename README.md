@@ -21,8 +21,10 @@
 <a href="https://www.kelasfullstack.id/">
  <img src="https://image.web.id/images/Logo-Kelasfullstack-by-codepolitan.png" alt="logo" height="30" >
 </a>
-[![BuildWithAngga](https://img.shields.io/badge/BuildWithAngga-0A0A0A?style=for-the-badge&logoColor=white)](https://buildwithangga.com/)
 
+<a href="https://buildwithangga.com/">
+ <img src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" alt="BuildWithAngga" height="40"">
+</a>
 
 
 

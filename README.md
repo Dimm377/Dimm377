@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://buildwithangga.com/">
- <img src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" alt="BuildWithAngga" height="40"">
+ <img src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" alt="BuildWithAngga" height="30"">
 </a>
 
 

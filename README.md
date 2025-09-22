@@ -112,6 +112,9 @@
 ![Nmap](https://img.shields.io/badge/Nmap-2E7EEA?style=for-the-badge&logo=https://nmap.org/images/nmap-project-logo.png&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge)
 </div>
+<div align="center">
+  # 🐍 Snake Repo btw
+</div>
 
 <img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />
 

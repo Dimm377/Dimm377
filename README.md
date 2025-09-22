@@ -21,6 +21,10 @@
 <a href="https://www.kelasfullstack.id/">
  <img src="https://image.web.id/images/Logo-Kelasfullstack-by-codepolitan.png" alt="logo" height="30" >
 </a>
+<a href="https://buildwithangga.com/">
+ <img src="https://buildwithangga.com/themes/front/images/logo_bwa_text.svg" alt="logo" height="30" >
+</a>
+
 
 
 ### 👨‍💻 Fact about me :

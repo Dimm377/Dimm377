@@ -21,7 +21,7 @@
 <a href="https://www.kelasfullstack.id/">
  <img src="https://image.web.id/images/Logo-Kelasfullstack-by-codepolitan.png" alt="logo" height="30" >
 </a>
-[<img src="https://buildwithangga.com/themes/front/images/logo_bwa_text.svg" alt="BuildWithAngga" height="40"/>](https://buildwithangga.com/)
+<img src="https://buildwithangga.com/themes/front/images/logo_bwa_text.svg" alt="BuildWithAngga" height="40" style="filter: invert(1);">
 
 
 

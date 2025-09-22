@@ -38,7 +38,7 @@
 
 ## 🔧 My Dev Setup
 
-* **OS:** Arch Linux + Hyprland (To build my own kingdom,in this os you're the owner btw ) & Windows 11 home (my corporate embassy for MS Office)
+* **OS:** Arch Linux + Hyprland (To build my own kingdom,in this os you're the owner btw ) & Windows home (my corporate embassy for MS Office)
 * **Code Editor:** Neovim (powered by LazyVim) & Visual Studio Code
 * **Terminal:** Kitty ( feature-rich and GPU-accerelated ) + Oh My Zsh + Powerlevel10k Theme
 * **Browser:** Tor for hardened privacy, Firefox for development and debugging.

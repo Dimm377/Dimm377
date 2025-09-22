@@ -36,7 +36,7 @@
 - Practicing **etichal hacking & penetration testing** in controlled environments
 - Learning about Web3 technologies and decentralized application development
 
-## 🔧 My Dev Setup
+### 🔧 My dev Setup :
 
 * **OS :** Arch Linux + Hyprland (To build my own kingdom,in this os you're the owner btw) & Windows 11 (my corporate embassy for MS Office)
 * **Code Editor :** Neovim (powered by LazyVim) & Visual Studio Code

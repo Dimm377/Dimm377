@@ -115,7 +115,7 @@
 ![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge)
 </div>
 
-  # 🐍 Snake Repo :
+
 
 
 <img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />

@@ -34,7 +34,7 @@
 
 ### 🧠 Currently Learning on :
 
-- Learning to build secure websites following the OWASP Top 10 standards (https://owasp.org/www-project-top-ten/)
+- Learning to build secure websites following the OWASP Top 10 standards
 - Practicing **etichal hacking & penetration testing** in controlled environments
 - Learning about Web3 technologies and decentralized application development
 

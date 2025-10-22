@@ -30,7 +30,7 @@
 - Linux enthusiast 🐧with a strong foundation in **Fullstack Web Development and Cybersecurity**
 - Passionate about building **secure, scalable, and maintainable applications**
 - Lifelong learner dedicated to **exploring and mastering modern techstack, building responsive and secure websites,ethical hacking and more**
-
+- My own Principle is **KISS - Keep It's Simple Stupid**
 
 ### 🧠 Currently Learning on :
 

@@ -28,9 +28,9 @@
 ### 👨‍💻 Fact about me :
 
 - My core principle is **KISS - Keep It's Simple, Stupid**
-- Linux enthusiast with a strong foundation in **Fullstack Web Development and Cybersecurity**
+- Linux enthusiast with a strong foundation in **Full-stack Web Development and Cybersecurity**
 - Passionate about building **secure, scalable, and maintainable applications**
-- Lifelong learner dedicated to **exploring and mastering modern techstack, building responsive and secure websites,ethical hacking and more**
+- Lifelong learner dedicated to **exploring and mastering modern tech stack, building responsive and secure websites, ethical hacking and more**
 
 ### 🧠 Currently Learning on :
 

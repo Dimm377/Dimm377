@@ -126,9 +126,6 @@
 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimm377&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="155" alt="languages graph"  />
-
-
-### 
 ![](https://github-readme-stats.vercel.app/api?username=Dimm377&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Dimm377&theme=tokyonight&hide_border=true)
 

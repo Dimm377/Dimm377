@@ -27,14 +27,14 @@
 
 ### 👨‍💻 Fact about me :
 
-- Linux enthusiast 🐧with a strong foundation in **Fullstack Web Development and Cybersecurity**
+- My core principle is **KISS - Keep It's Simple, Stupid**
+- Linux enthusiast with a strong foundation in **Fullstack Web Development and Cybersecurity**
 - Passionate about building **secure, scalable, and maintainable applications**
 - Lifelong learner dedicated to **exploring and mastering modern techstack, building responsive and secure websites,ethical hacking and more**
-- My own Principle is **KISS - Keep It's Simple Stupid**
 
 ### 🧠 Currently Learning on :
 
-- Build **secure, responsive, and purposeful websites** following **OWASP's top 10 standards** 🔒
+- Learning to build secure websites following the OWASP Top 10 standards [owasp] (https://owasp.org/www-project-top-ten/)
 - Practicing **etichal hacking & penetration testing** in controlled environments
 - Learning about Web3 technologies and decentralized application development
 

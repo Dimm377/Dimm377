@@ -1,9 +1,9 @@
 
-![Header](./github-header.png)
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&letterSpacing=&duration=2500&pause=500&color=2DB1FF&center=true&vCenter=true&width=500&lines=CYBER+SECURITY+ENTHUSIAST_;PASSIONATE+DEVELOPER_;ETHICAL+HACKER+IN+TRAINING_;CODE+%7C+HACK+%7C+SECURE_)](https://git.io/typing-svg)
+
+<img src="./l-chibi.png" alt="L Chibi" width="150"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&letterSpacing=&duration=2500&pause=500&color=2DB1FF&center=true&vCenter=true&width=500&lines=CYBER+SECURITY+ENTHUSIAST_;PASSIONATE+DEVELOPER_;)](https://git.io/typing-svg)
 
 </div>
 

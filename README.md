@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="./l-chibi.png" alt="L Chibi" width="150"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&letterSpacing=&duration=2500&pause=500&color=2DB1FF&center=true&vCenter=true&width=500&lines=CYBER+SECURITY+ENTHUSIAST_;PASSIONATE+DEVELOPER_;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=&duration=2500&pause=500&color=2DB1FF&center=true&vCenter=true&width=550&lines=CYBER+SECURITY+ENTHUSIAST_;PASSIONATE+DEVELOPER_;)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,16 +26,16 @@
 
 - 🔐 **Cyber Security Enthusiast** with a passion for breaking and securing systems
 - 💻 **Passionate Developer** who loves crafting clean, efficient code
-- 🐧 Linux power user running **Arch Linux** as daily driver
+- 🐧 **Linux Enthusiast** who believes in open-source and loves tinkering with systems
 - 🎯 Core principle: **KISS - Keep It Simple, Stupid**
-- 🛡️ Dedicated to understanding **vulnerabilities** to build **better defenses**
+- 🛡️ Learning to **break systems** so I can **build them stronger**
 
 ### 🧠 Currently Focused on :
 
-- 🕵️ Practicing **Penetration Testing** & **Red Team Operations** on TryHackMe and HTB
-- 🔒 Mastering **OWASP Top 10** vulnerabilities and secure coding practices
-- ⚡ Building **security tools** and **automation scripts**
-- 🌐 Developing **secure full-stack web applications**
+- **Penetration Testing** & **Vulnerability Assessment**
+- **Secure Application Development** following OWASP standards
+- **Security Automation** & custom tooling
+- **Full-Stack Web Development** with security-first approach
 
 ### 🔧 My Battle Station :
 

@@ -3,19 +3,20 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&letterSpacing=&duration=2500&pause=500&color=2DB1FF&center=true&vCenter=true&width=435&lines=TECH+ENTHUSIAST_;FULLSTACK+WEB+DEVELOPMENT_;LINUX+ENTHUSIAST_;CYBER+SECURITY_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&letterSpacing=&duration=2500&pause=500&color=2DB1FF&center=true&vCenter=true&width=500&lines=CYBER+SECURITY+ENTHUSIAST_;PASSIONATE+DEVELOPER_;ETHICAL+HACKER+IN+TRAINING_;CODE+%7C+HACK+%7C+SECURE_)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 💻 Focused on **Fullstack Web Development**
+### 🛡️ Passionate about **Cyber Security & Ethical Hacking**
 
-### 🕵️ Exploring the world of **Cyber Security**
+### 💻 Building **Secure & Scalable Web Applications**
 
 ### 🎓 Member of :
 
 [<img src="https://tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/>](https://tryhackme.com) &nbsp;&nbsp;
+[<img src="https://www.hackthebox.com/images/logo-htb.svg" alt="Hack The Box" height="40"/>](https://www.hackthebox.com) &nbsp;&nbsp;
 <a href="https://www.kelasfullstack.id/">
  <img src="https://image.web.id/images/Logo-Kelasfullstack-by-codepolitan.png" alt="logo" height="30" >
 </a>
@@ -23,25 +24,28 @@
 
 
 
-### 👨‍💻 Fact about me :
+### 👨‍💻 About me :
 
-- My core principle is **KISS - Keep It's Simple, Stupid**
-- Linux enthusiast with a strong foundation in **Full-stack Web Development and Cyber security**
-- Passionate about building **secure, scalable, and maintainable applications**
-- Lifelong learner dedicated to **exploring and mastering modern tech stack, building responsive and secure websites, ethical hacking and more**
+- 🔐 **Cyber Security Enthusiast** with a passion for breaking and securing systems
+- 💻 **Passionate Developer** who loves crafting clean, efficient code
+- 🐧 Linux power user running **Arch Linux** as daily driver
+- 🎯 Core principle: **KISS - Keep It Simple, Stupid**
+- 🛡️ Dedicated to understanding **vulnerabilities** to build **better defenses**
 
-### 🧠 Currently Learning on :
+### 🧠 Currently Focused on :
 
-- Learning to build secure websites following the OWASP Top 10 standards
-- Practicing **etichal hacking & penetration testing** in controlled environments
-- Learning about Web3 technologies and decentralized application development
+- 🕵️ Practicing **Penetration Testing** & **Red Team Operations** on TryHackMe and HTB
+- 🔒 Mastering **OWASP Top 10** vulnerabilities and secure coding practices
+- ⚡ Building **security tools** and **automation scripts**
+- 🌐 Developing **secure full-stack web applications**
 
-### 🔧 My dev Setup :
+### 🔧 My Battle Station :
 
-* **OS :** Arch Linux + Hyprland (In this os you're the owner btw) & Windows 11 (my corporate embassy for MS Office )
-* **Code Editor :** Neovim (powered by LazyVim) & Visual Studio Code
-* **Terminal :** Kitty ( feature-rich and GPU-accerelated ) + Oh My Zsh + Powerlevel10k Theme
-* **Browser :** Tor browser for hardened privacy, Firefox browser for development and debugging.
+* **OS :** Arch Linux + Hyprland *(btw I use Arch)* & Windows 11 *(for MS Office duties)*
+* **Editor :** Neovim (LazyVim) & VS Code
+* **Terminal :** Kitty + Oh My Zsh + Powerlevel10k
+* **Security :** Burp Suite, Wireshark, Metasploit
+* **Browser :** Tor *(privacy)* & Firefox *(dev/debug)*
 ---
 
   

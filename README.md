@@ -25,11 +25,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 **Cyber Security Enthusiast** — passionate about breaking and securing systems
-- 💻 **Passionate Developer** — crafting clean, efficient code
-- 🐧 **Linux Enthusiast** — open-source believer & system tinkerer
-- 🎯 **KISS** — Keep It Simple, Stupid
-- 🛡️ Learning to **break systems** so I can **build them stronger**
+-  **Cyber Security Enthusiast** — passionate about breaking and securing systems
+-  **Passionate Developer** — crafting clean, efficient code
+-  **Linux Enthusiast** — open-source believer & system tinkerer
+-  **KISS** — Keep It Simple, Stupid
+-  Learning to **break systems** so I can **build them stronger**
 
 ---
 
@@ -42,15 +42,13 @@
 
 ---
 
-### 🔧 My Battle Station
+### 🔧 Dev Setup
 
-| Category | Tools |
-|----------|-------|
-| **OS** | Arch Linux + Hyprland, Windows 11 |
-| **Editor** | Neovim (LazyVim), VS Code |
-| **Terminal** | Kitty + Oh My Zsh + Powerlevel10k |
-| **Security** | Burp Suite, Wireshark, Metasploit |
-| **Browser** | Tor, Firefox |
+- **OS:** Arch Linux + Hyprland, Windows 11
+- **Editor:** Neovim (LazyVim), VS Code
+- **Terminal:** Kitty + Oh My Zsh + Powerlevel10k
+- **Security:** Burp Suite, Wireshark, Metasploit
+- **Browser:** Tor, Firefox
 
 ---
 

@@ -121,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/pacman.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />
 
 </div>
 

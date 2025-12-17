@@ -27,7 +27,7 @@
 
 -  **Cyber Security Enthusiast** — passionate about breaking and securing systems
 -  **Passionate Developer** — crafting clean, efficient code
--  **Linux Enthusiast** — open-source believer & system tinkerer
+-  **Linux Enthusiast** — open-source believer
 -  **KISS** — Keep It Simple, Stupid
 -  Learning to **break systems** so I can **build them stronger**
 

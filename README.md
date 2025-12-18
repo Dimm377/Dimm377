@@ -37,7 +37,7 @@
 
 - **Penetration Testing** & **Vulnerability Assessment**
 - **Secure Application Development** following OWASP standards
-- **Security Automation** & custom tooling
+- **Binary exploit** & **Malware analyst**
 - **Full-Stack Web Development** with security-first approach
 
 ---

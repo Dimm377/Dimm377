@@ -44,19 +44,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔐 **[SSH-HoneyPot](https://github.com/Dimm377/SSH-HoneyPot)** | A honeypot system to detect and analyze SSH attacks | Python, Linux |
-| 🎬 **[Movie-Web](https://github.com/Dimm377/Movie-Web)** | Modern movie information website with TMDB API | Next.js, React, TailwindCSS |
-| 🔒 **[Encryptor-Tools](https://github.com/Dimm377/Encryptor-Tools)** | File encryption/decryption toolkit | Python |
-| 🔍 **[Gobuster-Enhanced](https://github.com/Dimm377/gobuster-enhanced)** | Enhanced Gobuster with better UI & features | Bash, Go |
-
-> 💡 *Check my pinned repositories below for more projects!*
-
----
-
 ### 🔧 Dev Setup
 
 - **OS:** Arch Linux + Hyprland, Windows 11

@@ -35,9 +35,9 @@
 
 ### 🧠 Currently Focused On
 
+- **Binary exploit** & **Malware analyst**
 - **Penetration Testing** & **Vulnerability Assessment**
 - **Secure Application Development** following OWASP standards
-- **Binary exploit** & **Malware analyst**
 - **Full-Stack Web Development** with security-first approach
 
 ---

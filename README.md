@@ -104,16 +104,25 @@
 <div align="center">
 
 #### 🔍 Analysis & Monitoring
-![Wireshark](https://img.shields.io/badge/Wireshark-00678F?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)
+<p>
+  <img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" height="45" alt="wireshark" />
+  <img width="12" />
+  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="45" alt="burpsuite" />
+</p>
 
 #### 💀 Penetration Testing
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+<p>
+  <img src="https://www.kali.org/images/kali-logo.svg" height="45" alt="kali" />
+  <img width="12" />
+  <img src="https://www.metasploit.com/includes/images/favicon.ico" height="45" alt="metasploit" />
+</p>
 
 #### 🔎 Scanning & Exploitation
-![Nmap](https://img.shields.io/badge/Nmap-2E7EEA?style=for-the-badge&logoColor=white)
-![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge)
+<p>
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="45" alt="nmap" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/sqlmap/data/images/sqlmap.png" height="45" alt="sqlmap" />
+</p>
 
 </div>
 

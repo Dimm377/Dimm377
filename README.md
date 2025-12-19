@@ -121,7 +121,7 @@
 <p>
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="45" alt="nmap" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/sqlmap/data/images/sqlmap.png" height="45" alt="sqlmap" />
+  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GhidraIcon64.png" height="45" alt="ghidra" />
 </p>
 
 </div>

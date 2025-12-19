@@ -102,19 +102,14 @@
 ## 🛡️ Security Stack
 
 <div align="center">
-<p>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="wireshark" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="45" alt="burpsuite" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="45" alt="metasploit" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" height="45" alt="virtualbox" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tor/7D4698" height="45" alt="tor" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="45" alt="archlinux" />
-</p>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+
 </div>
 
 ---

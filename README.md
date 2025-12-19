@@ -102,28 +102,19 @@
 ## 🛡️ Security Stack
 
 <div align="center">
-
-#### 🔍 Analysis & Monitoring
 <p>
-  <img src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" height="45" alt="wireshark" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="wireshark" />
   <img width="12" />
-  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="45" alt="burpsuite" />
-</p>
-
-#### 💀 Penetration Testing
-<p>
-  <img src="https://www.kali.org/images/kali-logo.svg" height="45" alt="kali" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="45" alt="burpsuite" />
   <img width="12" />
-  <img src="https://www.metasploit.com/includes/images/favicon.ico" height="45" alt="metasploit" />
-</p>
-
-#### 🔎 Scanning & Exploitation
-<p>
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="45" alt="nmap" />
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="45" alt="metasploit" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/NationalSecurityAgency/ghidra/master/Ghidra/Features/Base/src/main/resources/images/GhidraIcon64.png" height="45" alt="ghidra" />
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" height="45" alt="virtualbox" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tor/7D4698" height="45" alt="tor" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="45" alt="archlinux" />
 </p>
-
 </div>
 
 ---

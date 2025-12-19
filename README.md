@@ -13,6 +13,8 @@
 
 ### 💻 Building **Secure & Scalable Web Applications**
 
+### 🎯 **Open to Internship & Work Opportunities**
+
 ---
 
 ### 🎓 Member of
@@ -35,10 +37,23 @@
 
 ### 🧠 Currently Focused On
 
-- **Binary exploit** & **Malware analyst**
+- **Binary Exploitation** & **Malware Analysis**
 - **Penetration Testing** & **Vulnerability Assessment**
 - **Secure Application Development** following OWASP standards
 - **Full-Stack Web Development** with security-first approach
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🔐 **[SSH-HoneyPot](https://github.com/Dimm377/SSH-HoneyPot)** | A honeypot system to detect and analyze SSH attacks | Python, Linux |
+| 🎬 **[Movie-Web](https://github.com/Dimm377/Movie-Web)** | Modern movie information website with TMDB API | Next.js, React, TailwindCSS |
+| 🔒 **[Encryptor-Tools](https://github.com/Dimm377/Encryptor-Tools)** | File encryption/decryption toolkit | Python |
+| 🔍 **[Gobuster-Enhanced](https://github.com/Dimm377/gobuster-enhanced)** | Enhanced Gobuster with better UI & features | Bash, Go |
+
+> 💡 *Check my pinned repositories below for more projects!*
 
 ---
 
@@ -54,9 +69,15 @@
 
 ### 🌐 Connect With Me
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" />](https://steamcommunity.com/profiles/76561199666348785/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />](https://www.instagram.com/dimm_wijaya?igsh=cDVyNnE1bmk0N3J4)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="40" />](https://open.spotify.com/user/31yu353i3a6hxa26ise5oo23j23a?si=9f1a4c0d95d1422e)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimm_wijaya)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199666348785/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31yu353i3a6hxa26ise5oo23j23a?si=9f1a4c0d95d1422e)
+
+</div>
 
 ---
 
@@ -71,35 +92,22 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="7"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="7" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim" />
+
+#### 🔤 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,cpp,bash" />
+</p>
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+</p>
+
+#### ⚙️ Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,neovim,vscode" />
+</p>
+
 </div>
 
 ---
@@ -108,10 +116,15 @@
 
 <div align="center">
 
+#### 🔍 Analysis & Monitoring
 ![Wireshark](https://img.shields.io/badge/Wireshark-00678F?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47B20?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+#### 💀 Penetration Testing
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+#### 🔎 Scanning & Exploitation
 ![Nmap](https://img.shields.io/badge/Nmap-2E7EEA?style=for-the-badge&logoColor=white)
 ![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge)
 

@@ -42,17 +42,6 @@
 - **Secure Application Development** following OWASP standards
 - **Full-Stack Web Development** with security-first approach
 
----
-
-### 🔧 Dev Setup
-
-- **OS:** Arch Linux + Hyprland, Windows 11
-- **Editor:** Neovim (LazyVim), VS Code
-- **Terminal:** Kitty + Oh My Zsh + Powerlevel10k
-- **Security:** Burp Suite, Wireshark, Metasploit
-- **Browser:** Tor, Firefox
-
----
 
 ### 🌐 Connect With Me
 

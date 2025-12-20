@@ -68,6 +68,9 @@
 ## 💻 Tech Stack
 
 <div align="center">
+
+#### Languages
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
@@ -79,22 +82,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
-  <img width="12" />
+</p>
+
+#### Frontend
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss" />
-  <img width="12" />
+</p>
+
+#### Backend & Tools
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+</p>
+
 </div>
 
 ---

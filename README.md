@@ -99,6 +99,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />

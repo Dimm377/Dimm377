@@ -76,7 +76,7 @@
 
 #### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,tailwind,react,nextjs" />
 </p>
 
 #### ⚙️ Backend & Tools

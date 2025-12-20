@@ -119,21 +119,15 @@
 ## 🛡️ Security Stack
 
 <div align="center">
-<p>
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="wireshark" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="burpsuite" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="40" alt="metasploit" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/hashcat/5093CE" height="40" alt="hashcat" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tor/7D4698" height="40" alt="tor" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/virtualbox/183A61" height="40" alt="virtualbox" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="archlinux" />
-</p>
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-5093CE?style=for-the-badge&logo=hashcat&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+
 </div>
 
 ---

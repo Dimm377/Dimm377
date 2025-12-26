@@ -127,7 +127,7 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FD5D00?style=for-the-badge&logo=data:image/svg+xml;base64,...)
+![Ghidra](https://img.shields.io/badge/Ghidra-FD5D00?style=for-the-badge&logo=ghidra&logoColor=white)
 </div>
 
 ---

@@ -121,13 +121,20 @@
 <div align="center">
 
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark"/>
+<img width="12"/>
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite"/>
+<img width="12"/>
 <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="40" alt="Metasploit"/>
-<img src="https://cdn.simpleicons.org/hashcat/5E5E5E" height="40" alt="Hashcat"/>
+<img width="12"/>
+<img src="https://cdn.simpleicons.org/hashcat/FFFFFF" height="40" alt="Hashcat"/>
+<img width="12"/>
 <img src="https://cdn.simpleicons.org/torproject/7D4698" height="40" alt="Tor"/>
+<img width="12"/>
 <img src="https://cdn.simpleicons.org/virtualbox/183A61" height="40" alt="VirtualBox"/>
+<img width="12"/>
 <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Arch Linux"/>
-<img src="https://cdn.simpleicons.org/ghidra/FD5D00" height="40" alt="Ghidra"/>
+<img width="12"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" height="40" alt="Ghidra"/>
 
 </div>
 

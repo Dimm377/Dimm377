@@ -64,10 +64,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 💻 Tech Stack
 
-<div align="center">
+
 
 #### Languages
 <p>
@@ -116,9 +117,11 @@
 
 ---
 
+<div align="center">
+  
 ## 🛡️ Security Stack
 
-<div align="center">
+
 
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark"/>
 <img width="12"/>

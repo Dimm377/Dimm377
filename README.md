@@ -127,7 +127,10 @@
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-
+<a href="https://ghidra-sre.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge" alt="Ghidra Badge"/>
+</a>
 </div>
 
 ---

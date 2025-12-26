@@ -120,14 +120,15 @@
 
 <div align="center">
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FD5D00?style=for-the-badge&logo=ghidra&logoColor=white)
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" alt="Wireshark"/>
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="40" alt="Burp Suite"/>
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="40" alt="Metasploit"/>
+<img src="https://cdn.simpleicons.org/hashcat/5E5E5E" height="40" alt="Hashcat"/>
+<img src="https://cdn.simpleicons.org/torproject/7D4698" height="40" alt="Tor"/>
+<img src="https://cdn.simpleicons.org/virtualbox/183A61" height="40" alt="VirtualBox"/>
+<img src="https://cdn.simpleicons.org/archlinux/1793D1" height="40" alt="Arch Linux"/>
+<img src="https://cdn.simpleicons.org/ghidra/FD5D00" height="40" alt="Ghidra"/>
+
 </div>
 
 ---

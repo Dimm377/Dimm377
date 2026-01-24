@@ -17,7 +17,7 @@
 
 ---
 
-### 📈 My Progress
+### 🎓 Member Of:
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/WhoisD.png" alt="Your Image Badge" />
 

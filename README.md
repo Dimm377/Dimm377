@@ -19,7 +19,7 @@
 
 ### 📈 My Progress
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4957074" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4957074" style='border:none;'>Dimm</iframe>
 
 ---
 

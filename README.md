@@ -57,7 +57,7 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 <div align="center">
 
-### ⚔️ Weapons (Languages)
+### ⚔️ Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   &nbsp;&nbsp;

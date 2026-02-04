@@ -57,26 +57,29 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 <div align="center">
 
-#### Weapons (Languages)
+### ⚔️ Weapons (Languages)
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
 </p>
 
-<p align="center">
-  <img src="./assets/burp.png" height="42" />
-  <img src="./assets/nmap.png" height="55" />
-  <img src="./assets/bloodhound.png" height="42" />
-  <img src="./assets/wireshark.png" height="42" />
+---
+
+### 🧰 Offensive Security Tools
+<p>
+  <img src="./assets/burp.png" height="42" title="Burp Suite – Web Exploitation" />
+  &nbsp;&nbsp;
+  <img src="./assets/nmap.png" height="42" title="Nmap – Network Reconnaissance" />
+  &nbsp;&nbsp;
+  <img src="./assets/bloodhound.png" height="42" title="BloodHound – Active Directory Mapping" />
+  &nbsp;&nbsp;
+  <img src="./assets/wireshark.png" height="42" title="Wireshark – Network Analysis" />
 </p>
-
-
-
 
 </div>
 

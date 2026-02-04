@@ -69,32 +69,7 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 </p>
 
 <p align="center">
-  <!-- Burp Suite -->
-  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="40"/>
-
-  <!-- SQLmap -->
-  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/images/sqlmap_logo.png" height="40"/>
-
-  <!-- Nmap -->
-  <img src="https://nmap.org/images/sitelogo.png" height="40"/>
-
-  <!-- Wireshark -->
-  <img src="https://www.wireshark.org/assets/images/logos/wireshark-logo.svg" height="40"/>
-
-  <!-- Metasploit -->
-  <img src="https://www.metasploit.com/includes/images/metasploit-logo.png" height="40"/>
-
-  <!-- BloodHound -->
-  <img src="https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/src/img/bloodhound-logo.png" height="40"/>
-
-  <!-- CrackMapExec -->
-  <img src="https://raw.githubusercontent.com/byt3bl33d3r/CrackMapExec/master/docs/images/cme_logo.png" height="40"/>
-
-  <!-- Impacket -->
-  <img src="https://raw.githubusercontent.com/SecureAuthCorp/impacket/master/docs/images/impacket-logo.png" height="40"/>
-
-  <!-- Sliver C2 -->
-  <img src="https://raw.githubusercontent.com/BishopFox/sliver/master/docs/static/images/sliver-logo.svg" height="40"/>
+  <img src="./assets/burp.png" height="42" />
 </p>
 
 

@@ -10,7 +10,7 @@
 ---
 
 ### 🛡️ **Breaking Systems to Build Them Stronger**
-### 🕵️ **Focused on Offensive Security & Exploitation**
+### 🕵️Focused on learning Offensive Security & Exploitation
 ### 🎯 **Currently Seeking Red Team / Pentesting Internships**
 
 ---

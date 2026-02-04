@@ -9,9 +9,9 @@
 
 ---
 
-### 🛡️ **Breaking Systems to Build Them Stronger**
-### 🕵️Focused on learning Offensive Security & Exploitation
-### 🎯 **Currently Seeking Red Team / Pentesting Internships**
+### 🛡️ Learning how real attackers break systems — to help defenders fix them
+### 🕵️ Focused on learning Offensive Security & Exploitation
+### 🎯 Seeking Red Team / Pentesting Internship opportunities
 
 ---
 

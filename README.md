@@ -28,7 +28,7 @@
 My goal is to pursue a career in **Offensive Security as a Red Team practitioner**, focusing on simulating realistic adversary behavior to help organizations identify and strengthen security weaknesses.  
 I am continuously developing my skills in **binary exploitation, advanced web exploitation, and red team tradecraft**, with an emphasis on realistic attack chains, post-exploitation workflows, and operational security (OPSEC).
 
-In parallel, I am working toward obtaining **industry-recognized offensive security and red team certifications** to formally validate my hands-on technical and operational capabilities.
+ I also working toward obtaining **industry-recognized offensive security and red team certifications** to formally validate my hands-on technical and operational capabilities.
 
 
 ---

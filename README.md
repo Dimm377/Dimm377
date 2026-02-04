@@ -70,6 +70,9 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 <p align="center">
   <img src="./assets/burp.png" height="42" />
+  <img src="./assets/nmap.png" height="42" />
+  <img src="./assets/bloodhound.png" height="42" />
+  <img src="./assets/wireshark.png" height="42" />
 </p>
 
 

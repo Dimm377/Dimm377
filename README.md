@@ -70,16 +70,15 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 ---
 
-### 🧰 Offensive Security Tools
-<p>
-  <img src="./assets/burp.png" height="42" title="Burp Suite – Web Exploitation" />
-  &nbsp;&nbsp;
-  <img src="./assets/nmap.png" height="42" title="Nmap – Network Reconnaissance" />
-  &nbsp;&nbsp;
-  <img src="./assets/bloodhound.png" height="42" title="BloodHound – Active Directory Mapping" />
-  &nbsp;&nbsp;
-  <img src="./assets/wireshark.png" height="42" title="Wireshark – Network Analysis" />
+## 🧰 Offensive Security Tools
+
+<p align="center">
+  <img src="./assets/nmap.png" width="64" />
+  <img src="./assets/burp.png" width="64" />
+  <img src="./assets/metasploit.png" width="64" />
+  <img src="./assets/wireshark.png" width="64" />
 </p>
+
 
 </div>
 

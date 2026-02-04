@@ -68,27 +68,35 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
 </p>
 
-#### Offensive Security Stack
-<p>
-  <!-- Web Exploitation -->
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlmap&logoColor=white" />
+<p align="center">
+  <!-- Burp Suite -->
+  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="40"/>
 
-  <!-- Network / Recon -->
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <!-- SQLmap -->
+  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/images/sqlmap_logo.png" height="40"/>
 
-  <!-- Exploitation / Framework -->
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <!-- Nmap -->
+  <img src="https://nmap.org/images/sitelogo.png" height="40"/>
 
-  <!-- Active Directory / Lateral Movement -->
-  <img src="https://img.shields.io/badge/BloodHound-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrackMapExec-444444?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logoColor=white" />
+  <!-- Wireshark -->
+  <img src="https://www.wireshark.org/assets/images/logos/wireshark-logo.svg" height="40"/>
 
-  <!-- C2 -->
-  <img src="https://img.shields.io/badge/Sliver_C2-CC0000?style=for-the-badge&logoColor=white" />
+  <!-- Metasploit -->
+  <img src="https://www.metasploit.com/includes/images/metasploit-logo.png" height="40"/>
+
+  <!-- BloodHound -->
+  <img src="https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/src/img/bloodhound-logo.png" height="40"/>
+
+  <!-- CrackMapExec -->
+  <img src="https://raw.githubusercontent.com/byt3bl33d3r/CrackMapExec/master/docs/images/cme_logo.png" height="40"/>
+
+  <!-- Impacket -->
+  <img src="https://raw.githubusercontent.com/SecureAuthCorp/impacket/master/docs/images/impacket-logo.png" height="40"/>
+
+  <!-- Sliver C2 -->
+  <img src="https://raw.githubusercontent.com/BishopFox/sliver/master/docs/static/images/sliver-logo.svg" height="40"/>
 </p>
+
 
 
 

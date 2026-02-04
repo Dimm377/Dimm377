@@ -37,10 +37,11 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 ### 🧠 **Currently Learning**
 
-- **Binary Exploitation:** Deep dive into GDB and Ghidra.
-- **Web Exploitation** Web PWN, IDOR, SQL Injection, SSRF, SSTI, Authentication & Authorization Bypass
-- **Red Team Tradecraft:** Payload development and post-exploitation concepts
-- **OWASP Top 10:** Injection, Broken Access Control, Authentication Failures, Security Misconfiguration, Insecure Deserialization, SSRF (offensive-focused).
+- **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**
+- **Web Exploitation:** Web PWN, **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, **Authentication & Authorization Bypass**
+- **Red Team Tradecraft:** Payload development fundamentals and **post-exploitation workflows**
+- **OWASP Top 10:** **Injection**, **Broken Access Control**, **Authentication Failures**, **Security Misconfiguration**, **Insecure Deserialization**, **SSRF** (offensive-focused)
+
 
 
 ---

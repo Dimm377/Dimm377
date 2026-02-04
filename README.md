@@ -57,47 +57,28 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 <div align="center">
 
-#### Weapons (Languages)
+### ⚔️ Weapons (Languages)
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
 </p>
+
+---
+
+## 🧰 Offensive Security Tools
 
 <p align="center">
-  <!-- Burp Suite -->
-  <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" height="40"/>
-
-  <!-- SQLmap -->
-  <img src="https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/data/images/sqlmap_logo.png" height="40"/>
-
-  <!-- Nmap -->
-  <img src="https://nmap.org/images/sitelogo.png" height="40"/>
-
-  <!-- Wireshark -->
-  <img src="https://www.wireshark.org/assets/images/logos/wireshark-logo.svg" height="40"/>
-
-  <!-- Metasploit -->
-  <img src="https://www.metasploit.com/includes/images/metasploit-logo.png" height="40"/>
-
-  <!-- BloodHound -->
-  <img src="https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/src/img/bloodhound-logo.png" height="40"/>
-
-  <!-- CrackMapExec -->
-  <img src="https://raw.githubusercontent.com/byt3bl33d3r/CrackMapExec/master/docs/images/cme_logo.png" height="40"/>
-
-  <!-- Impacket -->
-  <img src="https://raw.githubusercontent.com/SecureAuthCorp/impacket/master/docs/images/impacket-logo.png" height="40"/>
-
-  <!-- Sliver C2 -->
-  <img src="https://raw.githubusercontent.com/BishopFox/sliver/master/docs/static/images/sliver-logo.svg" height="40"/>
+  <img src="./assets/nmap.png" width="64" />
+  <img src="./assets/burp.png" width="64" />
+  <img src="./assets/.png" width="64" />
+  <img src="./assets/bloodhound.png" width="64" />
+  <img src="./assets/wireshark.png" width="64" />
 </p>
-
-
 
 
 </div>

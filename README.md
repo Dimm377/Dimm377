@@ -39,6 +39,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 - **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**
 - **Web Exploitation:** Web PWN, **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, **Authentication & Authorization Bypass**
+- **Active Directory Attacks:** AD enumeration, **Kerberos fundamentals**, **privilege escalation**, and common misconfigurations
 - **Red Team Tradecraft:** Payload development fundamentals and **post-exploitation workflows**
 - **OWASP Top 10:** **Injection**, **Broken Access Control**, **Authentication Failures**, **Security Misconfiguration**, **Insecure Deserialization**, **SSRF** (offensive-focused)
 

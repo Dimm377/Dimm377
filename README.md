@@ -1,35 +1,44 @@
-![Header](./github-header.png)
+![Header](./github-header-banner.png)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=&duration=2500&pause=500&color=FF4B2B&center=true&vCenter=true&width=550&lines=RED+TEAM+OPERATOR;OFFENSIVE+SECURITY;MALWARE+RESEARCHER;ARCH+LINUX+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&letterSpacing=&duration=2500&pause=500&color=FF4B2B&center=true&vCenter=true&width=550&lines=RED+TEAMER;OFFENSIVE+SECURITY;LINUX+ENTHUSIAST)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
 ### 🛡️ **Breaking Systems to Build Them Stronger**
-### 🕵️ **Focused on Vulnerability Research & Exploitation**
+### 🕵️ **Focused on Offensive Security & Exploitation**
 ### 🎯 **Currently Seeking Red Team / Pentesting Internships**
 
 ---
 
-### 👨‍💻 **LOG FILE: About Me**
+### 👨‍💻 **About Me**
 
-- **Identity:** Dimas Putra Wijaya (Nickname: Dimm)
-- **Status:** 18-year-old Computer Science Student at Udinus
-- **OS:** Arch Linux with Hyprland WM
-- **Ranking:** Rank #1 Silver League on TryHackMe
-- **Mindset:** "Learning to break systems so I can build them stronger."
+- **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation
+- Focused on learning **realistic attack techniques**, adversary simulation, and offensive tradecraft
+- **Linux Enthusiast** — Open Source believer and daily Linux user
+- Enjoys hands-on labs, CTFs, and security research to sharpen technical depth
+
+
+### 🎯 **Goal in Cyber Security**
+
+My goal is to pursue a career in **Offensive Security as a Red Team practitioner**, focusing on simulating realistic adversary behavior to help organizations identify and strengthen security weaknesses.  
+I am continuously developing my skills in **binary exploitation, advanced web exploitation, and red team tradecraft**, with an emphasis on realistic attack chains, post-exploitation workflows, and operational security (OPSEC).
+
+In parallel, I am working toward obtaining **industry-recognized offensive security and red team certifications** to formally validate my hands-on technical and operational capabilities.
+
 
 ---
 
-### 🧠 **OPERATIONAL OBJECTIVES (Currently Learning)**
+### 🧠 **Currently Learning**
 
 - **Binary Exploitation:** Deep dive into GDB and Ghidra.
-- **Active Directory Hacking:** Focus on Kerberoasting and Lateral Movement.
-- **Malware Development:** Payload crafting using C++ and Go.
-- **Web Pwn:** Advanced Blind SQL Injection and IDOR.
+- **Web Exploitation** Web PWN, IDOR, SQL Injection, SSRF, SSTI, Authentication & Authorization Bypass
+- **Red Team Tradecraft:** Payload development and post-exploitation concepts
+- **OWASP Top 10:** Injection, Broken Access Control, Authentication Failures, Security Misconfiguration, Insecure Deserialization, SSRF (offensive-focused).
+
 
 ---
 

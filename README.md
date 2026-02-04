@@ -54,7 +54,6 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 </div>
 
----
 
 ## 🛠️ **OFFENSIVE TOOLKIT**
 
@@ -75,8 +74,6 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 </div>
 
-
----
 
 ## 🧰 Offensive Security Tools
 

@@ -60,7 +60,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 <div align="center">
 
-### ⚔️ Languages (Offensive-Focused)
+### Languages (Offensive-Focused)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   &nbsp;&nbsp;
@@ -76,15 +76,17 @@ I am also working toward obtaining **industry-recognized offensive security and 
 </div>
 
 
-## 🧰 Offensive Security Tools
+## ⚔️ Offensive Security Tools
 
 <p align="center">
-  <img src="./assets/nmap.png" width="64" />
-  <img src="./assets/burp.png" width="64" />
-  <img src="./assets/metasploit.png" width="64" />
-  <img src="./assets/bloodhound.png" width="64" />
-  <img src="./assets/wireshark.png" width="64" />
+  <img src="./assets/nmap.png" width="64" alt="Nmap" />
+  <img src="./assets/burp.png" width="64" alt="Burp Suite" />
+  <img src="./assets/metasploit.png" width="64" alt="Metasploit" />
+  <img src="./assets/bloodhound.png" width="64" alt="BloodHound" />
+  <img src="./assets/wireshark.png" width="64" alt="Wireshark" />
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="64" alt="Arch Linux" />
 </p>
+
 
 
 </div>

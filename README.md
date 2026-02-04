@@ -47,7 +47,7 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/WhoisD.png)](https://tryhackme.com/p/WhoisD)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Your Image Badge" />
 
 </div>
 

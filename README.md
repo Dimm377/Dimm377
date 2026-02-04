@@ -60,7 +60,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 <div align="center">
 
-### ⚔️ Languages
+### ⚔️ Languages (Offensive-Focused)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   &nbsp;&nbsp;
@@ -69,7 +69,12 @@ I am also working toward obtaining **industry-recognized offensive security and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </p>
+
+</div>
+
 
 ---
 

@@ -75,7 +75,8 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 <p align="center">
   <img src="./assets/nmap.png" width="64" />
   <img src="./assets/burp.png" width="64" />
-  <img src="./assets/metasploit.png" width="64" />
+  <img src="./assets/.png" width="64" />
+  <img src="./assets/bloodhound.png" width="64" />
   <img src="./assets/wireshark.png" width="64" />
 </p>
 

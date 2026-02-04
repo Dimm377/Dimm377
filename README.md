@@ -90,19 +90,6 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 ---
 
-### 🌐 **ENCRYPTED CHANNELS**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimaswijay2345@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dimm_wijaya)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199666348785/)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />

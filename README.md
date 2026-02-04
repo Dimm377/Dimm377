@@ -70,15 +70,26 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 #### Offensive Security Stack
 <p>
-  <img src="https://img.shields.io/badge/Burp_Suite-E01922?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-E01922?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-E01922?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLmap-E01922?style=for-the-badge&logo=sqlmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/BloodHound-E01922?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrackMapExec-E01922?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Impacket-E01922?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sliver_C2-E01922?style=for-the-badge" />
+  <!-- Web Exploitation -->
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logo=sqlmap&logoColor=white" />
+
+  <!-- Network / Recon -->
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+  <!-- Exploitation / Framework -->
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+  <!-- Active Directory / Lateral Movement -->
+  <img src="https://img.shields.io/badge/BloodHound-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrackMapExec-444444?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logoColor=white" />
+
+  <!-- C2 -->
+  <img src="https://img.shields.io/badge/Sliver_C2-CC0000?style=for-the-badge&logoColor=white" />
 </p>
+
 
 
 </div>

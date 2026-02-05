@@ -50,9 +50,9 @@ I am also working toward obtaining **industry-recognized offensive security and 
 ### 🎓 **Member Of & Badges:**
 
 <div align="center">
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Your Image Badge" />
-
+  <a href="https://tryhackme.com/p/Wh0isD">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm's TryHackMe Badge" />
+  </a>
 </div>
 
 

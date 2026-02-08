@@ -34,7 +34,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 
 ---
-
+<img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />
 ### 🧠 **Currently Learning**
 
 - **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**

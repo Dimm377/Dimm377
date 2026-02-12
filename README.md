@@ -74,9 +74,6 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 </div>
 
-
-## ⚔️ Offensive Security Tools
-
 <p align="center">
   <img src="./assets/nmap.png" width="64" alt="Nmap" />
   <img src="./assets/burp.png" width="64" alt="Burp Suite" />

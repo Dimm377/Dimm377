@@ -59,7 +59,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 <div align="center">
 
-### Languages (Offensive-Focused)
+### (Offensive-Focused)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   &nbsp;&nbsp;

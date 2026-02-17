@@ -50,7 +50,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 <div align="center">
   <a href="https://tryhackme.com/p/Wh0isD">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm's TryHackMe Badge" />
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm tryhackme badge" />
   </a>
 </div>
 

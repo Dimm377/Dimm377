@@ -9,9 +9,9 @@
 
 ---
 
-### 🛡️ Learning how real attackers break systems — to help defenders fix them
-### 🕵️ Focused on learning Offensive Security & Exploitation
-### 🎯 Seeking CTF Team / Pentesting Internship opportunities
+### - Learning how real attackers break systems — to help defenders fix them
+### - Focused on learning Offensive Security & Exploitation
+### - Seeking CTF Team / Pentesting Internship opportunities
 
 ---
 

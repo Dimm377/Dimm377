@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Header](./github-header-banner.png)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=500&color=E01922&center=true&vCenter=true&width=550&lines=RED+TEAMER;OFFENSIVE+SECURITY;LINUX+ENTHUSIAST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=500&color=E01922&center=true&vCenter=true&width=550&lines=I+WANT+BECOME+RED+TEAMER;OFFENSIVE+SECURITY;LINUX+ENTHUSIAST)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 - **AI/LLM Security:** **Prompt injection**, adversarial ML basics, **OWASP LLM Top 10**
 - **Red Team Tradecraft:** Payload development and **post-exploitation workflows**
 
---
+---
 
 ### 🎓 TryHackMe
 <div align="center">

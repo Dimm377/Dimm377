@@ -5,6 +5,8 @@
 
 </div>
 
+---
+
 ### 👨‍💻 About Me
 - **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation
 - Focused on learning **realistic attack techniques**, adversary simulation, and offensive tradecraft

@@ -29,7 +29,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 ---
 
-### 🎓 TryHackMe
+### 🎓 Learning Journey
 <div align="center">
 <a href="https://tryhackme.com/p/Wh0isD">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm TryHackMe Badge" />

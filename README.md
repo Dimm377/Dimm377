@@ -43,32 +43,6 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 </div>
 
----
-
-## 🛠️ Offensive Toolkit
-
-<div align="center">
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,cpp,bash,js" alt="Python, Go, C++, Bash, JavaScript" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="./assets/nmap.png" width="64" alt="Nmap" />
-  <img src="./assets/burp.png" width="64" alt="Burp Suite" />
-  <img src="./assets/metasploit.png" width="64" alt="Metasploit" />
-  <img src="./assets/bloodhound.png" width="64" alt="BloodHound" />
-  <img src="./assets/wireshark.png" width="64" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="64" alt="Arch Linux" />
-</p>
-
-</div>
-
----
 
 <div align="center">
 

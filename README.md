@@ -1,6 +1,8 @@
 <div align="center">
+
 ![Header](./github-header-banner.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=500&color=E01922&center=true&vCenter=true&width=550&lines=RED+TEAMER;OFFENSIVE+SECURITY;LINUX+ENTHUSIAST)](https://git.io/typing-svg)
+
 </div>
 ### 👨‍💻 About Me
 - **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation

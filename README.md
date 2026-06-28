@@ -1,29 +1,19 @@
-![Header](./github-header-banner.png)
-
 <div align="center">
+
+![Header](./github-header-banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=500&color=E01922&center=true&vCenter=true&width=550&lines=RED+TEAMER;OFFENSIVE+SECURITY;LINUX+ENTHUSIAST)](https://git.io/typing-svg)
 
-
 </div>
 
----
-
-### - Learning how real attackers break systems — to help defenders fix them
-### - Focused on learning Offensive Security & Exploitation
-### - Seeking CTF Team / Pentesting Internship opportunities
-
----
-
-### 👨‍💻 **About Me**
+### 👨‍💻 About Me
 
 - **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation
 - Focused on learning **realistic attack techniques**, adversary simulation, and offensive tradecraft
 - **Linux Enthusiast** — Open Source believer and daily Linux user
 - Enjoys hands-on labs, CTFs, and security research to sharpen technical depth
 
-
-### 🎯 **Goal in Cyber Security**
+### 🎯 Goal in Cyber Security
 
 My goal is to pursue a career in **Offensive Security as a Red Team practitioner**, focusing on simulating realistic adversary behavior to help organizations identify and strengthen security weaknesses.
 
@@ -31,10 +21,7 @@ I am continuously developing my skills in **binary exploitation, advanced web ex
 
 I am also working toward obtaining **industry-recognized offensive security and red team certifications** to formally validate my hands-on technical and operational capabilities.
 
-
-
----
-### 🧠 **Currently Learning**
+### 🧠 Currently Learning
 
 - **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**
 - **Web Exploitation:** Web PWN, **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, **Authentication & Authorization Bypass**
@@ -42,39 +29,33 @@ I am also working toward obtaining **industry-recognized offensive security and 
 - **Red Team Tradecraft:** Payload development fundamentals and **post-exploitation workflows**
 - **OWASP Top 10:** **Injection**, **Broken Access Control**, **Authentication Failures**, **Security Misconfiguration**, **Insecure Deserialization**, **SSRF** (offensive-focused)
 
+---
 
+### 🎓 Member Of & Badges
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/Wh0isD">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm TryHackMe badge" />
+</a>
+
+</div>
 
 ---
 
-### 🎓 **Member Of & Badges:**
-
-<div align="center">
-  <a href="https://tryhackme.com/p/Wh0isD">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm tryhackme badge" />
-  </a>
-</div>
-
-
-## 🛠️ **OFFENSIVE TOOLKIT**
+## 🛠️ Offensive Toolkit
 
 <div align="center">
 
-### (Offensive-Focused)
+**Languages**
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="Go" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,bash,js" alt="Python, Go, C++, Bash, JavaScript" />
 </p>
 
-</div>
+**Tools**
 
-<p align="center">
+<p>
   <img src="./assets/nmap.png" width="64" alt="Nmap" />
   <img src="./assets/burp.png" width="64" alt="Burp Suite" />
   <img src="./assets/metasploit.png" width="64" alt="Metasploit" />
@@ -83,15 +64,13 @@ I am also working toward obtaining **industry-recognized offensive security and 
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="64" alt="Arch Linux" />
 </p>
 
-
-
 </div>
 
 ---
 
 <div align="center">
 
-![lawliet](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW13NXkybm5vbW5nMmhmNXZ4YWp3cGp5ODV0eHQ1d2F5djA4MjR1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif)
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW13NXkybm5vbW5nMmhmNXZ4YWp3cGp5ODV0eHQ1d2F5djA4MjR1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VrtvDMP4ajo5y/giphy.gif" width="300" alt="profile gif" />
 
 </div>
 

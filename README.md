@@ -24,21 +24,20 @@ I am also working toward obtaining **industry-recognized offensive security and 
 ### 🧠 Currently Learning
 
 - **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**
-- **Web Exploitation:** Web PWN, **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, **Authentication & Authorization Bypass**
-- **Active Directory Attacks:** AD enumeration, **Kerberos fundamentals**, **privilege escalation**, hybrid **Entra ID** attacks, and common misconfigurations
-- **Cloud Security:** AWS/Azure misconfigurations, **IAM privilege escalation**, and metadata-service **SSRF**
-- **AI/LLM Security:** **Prompt injection**, adversarial ML basics, and the **OWASP LLM Top 10**
-- **Red Team Tradecraft:** Payload development fundamentals and **post-exploitation workflows**
-- **OWASP Top 10:** **Injection**, **Broken Access Control**, **Authentication Failures**, **Security Misconfiguration**, **Insecure Deserialization**, **SSRF** (offensive-focused)
+- **Web Exploitation:** **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, authentication bypass
+- **Active Directory Attacks:** AD enumeration, **Kerberos**, privilege escalation, hybrid **Entra ID** attacks
+- **Cloud Security:** AWS/Azure misconfigurations, **IAM privilege escalation**, metadata-service **SSRF**
+- **AI/LLM Security:** **Prompt injection**, adversarial ML basics, **OWASP LLM Top 10**
+- **Red Team Tradecraft:** Payload development and **post-exploitation workflows**
 
 ---
 
-### 🎓 Member Of & Badges
+### 🎓 TryHackMe
 
 <div align="center">
 
 <a href="https://tryhackme.com/p/Wh0isD">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm TryHackMe badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm TryHackMe Badge" />
 </a>
 
 </div>

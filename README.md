@@ -6,14 +6,6 @@
 
 </div>
 
----
-
-### Learning how real attackers break systems — to help defenders fix them
-### Focused on learning Offensive Security & Exploitation
-### Seeking CTF Team / Pentesting Internship opportunities
-
----
-
 ### 👨‍💻 About Me
 
 - **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation

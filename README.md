@@ -6,6 +6,14 @@
 
 </div>
 
+---
+
+### Learning how real attackers break systems — to help defenders fix them
+### Focused on learning Offensive Security & Exploitation
+### Seeking CTF Team / Pentesting Internship opportunities
+
+---
+
 ### 👨‍💻 About Me
 
 - **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation
@@ -25,7 +33,9 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 - **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**
 - **Web Exploitation:** Web PWN, **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, **Authentication & Authorization Bypass**
-- **Active Directory Attacks:** AD enumeration, **Kerberos fundamentals**, **privilege escalation**, and common misconfigurations
+- **Active Directory Attacks:** AD enumeration, **Kerberos fundamentals**, **privilege escalation**, hybrid **Entra ID** attacks, and common misconfigurations
+- **Cloud Security:** AWS/Azure misconfigurations, **IAM privilege escalation**, and metadata-service **SSRF**
+- **AI/LLM Security:** **Prompt injection**, adversarial ML basics, and the **OWASP LLM Top 10**
 - **Red Team Tradecraft:** Payload development fundamentals and **post-exploitation workflows**
 - **OWASP Top 10:** **Injection**, **Broken Access Control**, **Authentication Failures**, **Security Misconfiguration**, **Insecure Deserialization**, **SSRF** (offensive-focused)
 

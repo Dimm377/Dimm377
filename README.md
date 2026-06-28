@@ -43,6 +43,7 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 </div>
 
+---
 
 <div align="center">
 

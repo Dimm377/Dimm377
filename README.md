@@ -34,7 +34,8 @@ My main goal right now is to keep learning, breaking things, and understanding h
 
 ### 📊 github stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dimm377&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimm377&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dimm377&theme=tokyonight" alt="Productive Time" width="48%" />
 </p>
 
 ---

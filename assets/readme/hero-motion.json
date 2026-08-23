@@ -17,11 +17,6 @@
   ],
   "layers": [
     {
-      "id": "hero-title",
-      "enter": {"start": 0.2, "end": 1.0, "from": [0, 10]},
-      "exit": {"start": 4.6, "end": 4.9, "to": [0, 10]}
-    },
-    {
       "id": "hero-subtitle",
       "enter": {"start": 0.4, "end": 1.2, "from": [0, 10]},
       "exit": {"start": 4.4, "end": 4.9, "to": [0, 10]}

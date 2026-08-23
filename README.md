@@ -1,10 +1,10 @@
 <img src="./assets/readme/hero.svg" width="100%" alt="Dimm - Offensive Security & Realistic Adversary Simulation">
 
 ### About Me
-I'm an **Offensive Security enthusiast** specializing in realistic adversary simulation and red team tradecraft. As a daily Linux user and open-source advocate, I spend my time deep-diving into hands-on labs, CTFs, and security research to build practical, real-world technical depth.
+I'm a **Linux enthusiast** and **Offensive Security student** who loves diving into hands-on labs, CTFs, and security research. I am highly interested in how real-world attacks happen, and I spend most of my free time learning about offensive tradecraft and adversary simulation.
 
 ### Goal in Cyber Security
-I'm actively working toward a career as a **Red Team practitioner**. My focus is on executing realistic attack chains, understanding post-exploitation workflows, and maintaining operational security (OPSEC) to help organizations identify complex security weaknesses before threat actors do. I am currently pursuing industry-recognized offensive security certifications to validate these capabilities.
+My ultimate goal is to become a **Red Team practitioner**. Right now, I'm focused on learning how to execute realistic attack chains, understanding post-exploitation, and studying operational security (OPSEC). I'm currently working towards industry-recognized certifications to build my skills and break into the field.
 
 ### Currently Learning
 - **Red Team Tradecraft:** Payload development, AV/EDR evasion, and advanced post-exploitation workflows.

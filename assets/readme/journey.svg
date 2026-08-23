@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title">
+  <title id="title">Learning Journey</title>
+  
+  <rect width="1200" height="120" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="118" rx="11" fill="none" stroke="#30363D" stroke-width="2"/>
+  
+  <path d="M12,1 L4,1 A3,3 0 0,0 1,4 L1,116 A3,3 0 0,0 4,119 L12,119 Z" fill="#E01922"/>
+
+  <g transform="translate(60, 68)">
+    <text x="0" y="0" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="42" font-weight="bold">Learning Journey</text>
+    <text x="400" y="-2" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="24">traceroute 127.0.0.1</text>
+  </g>
+</svg>

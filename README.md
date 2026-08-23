@@ -1,25 +1,24 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/readme/hero.svg" width="100%" alt="Dimm - Offensive Security & Realistic Adversary Simulation">
+</p>
 
-![Header](./github-header-banner.png)
-<br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=2500&pause=500&color=E01922&center=true&vCenter=true&width=550&lines=I+WANT+BECOME;+RED+TEAMER;OFFENSIVE+SECURITY;LINUX+ENTHUSIAST)](https://git.io/typing-svg)
 
-</div>
+<img src="./assets/readme/about.svg" width="100%" alt="About Me">
 
----
-
-### 👨‍💻 About Me
 - **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation
 - Focused on learning **realistic attack techniques**, adversary simulation, and offensive tradecraft
 - **Linux Enthusiast** — Open Source believer and daily Linux user
 - Enjoys hands-on labs, CTFs, and security research to sharpen technical depth
 
-### 🎯 Goal in Cyber Security
+<img src="./assets/readme/goal.svg" width="100%" alt="Goal in Cyber Security">
+
 My goal is to pursue a career in **Offensive Security as a Red Team practitioner**, focusing on simulating realistic adversary behavior to help organizations identify and strengthen security weaknesses.
 I am continuously developing my skills in **binary exploitation, advanced web exploitation, and red team tradecraft**, with an emphasis on realistic attack chains, post-exploitation workflows, and operational security (OPSEC).
 I am also working toward obtaining **industry-recognized offensive security and red team certifications** to formally validate my hands-on technical and operational capabilities.
 
-### 🧠 Currently Learning
+<br>
+<img src="./assets/readme/learning.svg" width="100%" alt="Currently Learning">
+
 - **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**
 - **Web Exploitation:** **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, authentication bypass
 - **Active Directory Attacks:** AD enumeration, **Kerberos**, privilege escalation, hybrid **Entra ID** attacks
@@ -29,7 +28,9 @@ I am also working toward obtaining **industry-recognized offensive security and 
 
 ---
 
-### 🎓 Learning Journey
+<br>
+<img src="./assets/readme/journey.svg" width="100%" alt="Learning Journey">
+
 <div align="center">
 <a href="https://tryhackme.com/p/Wh0isD">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm TryHackMe Badge" />

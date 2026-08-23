@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dimm - Offensive Security</title>
+  <desc id="desc">Terminal interface showing Dimm's focus on Red Teaming and Adversary Simulation</desc>
+
+  <rect width="1200" height="320" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="318" rx="15" fill="none" stroke="#30363D" stroke-width="2"/>
+  
+  <!-- Terminal Header -->
+  <rect x="1" y="1" width="1198" height="40" fill="#161B22" rx="15"/>
+  <rect x="1" y="21" width="1198" height="20" fill="#161B22"/> <!-- square bottom corners -->
+  <circle cx="30" cy="21" r="6" fill="#FF5F56"/>
+  <circle cx="50" cy="21" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="21" r="6" fill="#27C93F"/>
+  <text x="600" y="26" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" text-anchor="middle">root@dimm: ~</text>
+  <line x1="1" y1="41" x2="1199" y2="41" stroke="#30363D" stroke-width="2"/>
+
+  <!-- Left Side: Title -->
+  <g transform="translate(60, 110)">
+    <text x="0" y="0" fill="#E01922" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="20" font-weight="bold">OFFENSIVE_SECURITY</text>
+    <text x="0" y="60" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="64" font-weight="900" letter-spacing="-1">Dimm</text>
+    <text x="0" y="110" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26">Realistic Adversary Simulation &amp; Red Team Tradecraft</text>
+  </g>
+
+  <!-- Right Side: Terminal output -->
+  <g transform="translate(660, 90)">
+    <rect width="480" height="180" rx="8" fill="#010409" stroke="#30363D" stroke-width="1"/>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="16" fill="#E6EDF3">
+      <text x="20" y="35"><tspan fill="#2EA043">root@dimm</tspan>:<tspan fill="#3178C6">~</tspan># ./enum_target.sh</text>
+      <text x="20" y="65" fill="#8B949E">[*] Initiating adversary simulation...</text>
+      <text x="20" y="95" fill="#8B949E">[*] Analyzing attack surface...</text>
+      <text x="20" y="125"><tspan fill="#E01922">[+] Vulnerability found: </tspan>AD Privilege Escalation</text>
+      <text x="20" y="155"><tspan fill="#E01922">[+] Deploying payload...</tspan> <tspan fill="#E6EDF3" font-weight="bold">ACCESS GRANTED</tspan></text>
+      <rect x="238" y="142" width="10" height="18" fill="#E6EDF3"/>
+    </g>
+  </g>
+</svg>

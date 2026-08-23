@@ -13,6 +13,11 @@ My main goal right now is to keep learning, breaking things, and understanding h
 - **IoT & Hardware:** Exploring how embedded devices work and learning the fundamentals of IoT security.
 - **AI/LLM Security:** Learning about prompt injection and the OWASP LLM Top 10.
 
+### random facts
+- **Daily Driver:** I use **Arch Linux** (btw) paired with **Hyprland** as my daily driver.
+- **Ricing Habit:** I spend an unreasonable amount of time tweaking my dotfiles, customizing my terminal, and perfecting my Hyprland aesthetic.
+- **Tinkering:** Whether it's software vulnerabilities, IoT hardware, or Linux configs—if it can be broken, modified, or customized, I'm probably messing with it.
+
 ---
 
 <p align="center">

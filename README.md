@@ -1,7 +1,7 @@
 <img src="./assets/readme/hero.svg" width="100%" alt="Dimm - Offensive Security & Realistic Adversary Simulation">
 
 ### About Me
-I'm a **Linux enthusiast** and **Offensive Security student** who loves diving into hands-on labs, CTFs, and security research. I am highly interested in how real-world attacks happen, and I spend most of my free time learning about offensive tradecraft and adversary simulation.
+I'm a **Linux enthusiast** and **Offensive Security student** who loves diving into hands-on labs, CTFs, and security research. Outside of learning offsec, I enjoy **ricing Linux** setups, exploring **IoT**, and contributing to **Open Source**. I spend most of my free time understanding how real-world attacks happen and learning offensive tradecraft.
 
 ### Goal in Cyber Security
 My ultimate goal is to become a **Red Team practitioner**. Right now, I'm focused on learning how to execute realistic attack chains, understanding post-exploitation, and studying operational security (OPSEC). I'm currently working towards industry-recognized certifications to build my skills and break into the field.
@@ -12,6 +12,7 @@ My ultimate goal is to become a **Red Team practitioner**. Right now, I'm focuse
 - **Advanced Web & API:** Complex attack chains involving IDOR, SSRF, SSTI, and authentication bypass.
 - **Binary Exploitation:** Low-level program analysis, reverse engineering, and debugging using GDB and Ghidra.
 - **AI/LLM Security:** Exploring prompt injection and the OWASP LLM Top 10.
+- **IoT & Hardware:** Learning the fundamentals of IoT architectures and embedded device security.
 
 ---
 

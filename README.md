@@ -1,22 +1,39 @@
 <img src="./assets/readme/hero.svg?v=2" width="100%" alt="Dimm - Offensive Security & Realistic Adversary Simulation">
 
-### about me
+### 👨‍💻 about me
 I'm a **Linux enthusiast** and **Offensive Security student** who loves diving into hands-on labs, CTFs, and security research. I spend most of my free time contributing to **Open Source**, ricing **Arch Linux**, and learning about **Offensive Security** and **IoT**.
 
-### my goals
+### 🛠️ skills & tools
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+</p>
+
+### 🎯 my goals
 My main goal right now is to keep learning, breaking things, and understanding how they work under the hood. I want to build a solid foundation in offensive security and eventually turn my passion for hacking and Linux into a career as a Red Teamer. I'm also focusing on expanding my knowledge in IoT and contributing more to open-source projects.
 
-### currently learning
+### 🧠 currently learning
 - **Web & Network Security:** Understanding common vulnerabilities (SQLi, IDOR, SSRF) and the basics of Active Directory enumeration.
 - **Binary Exploitation:** Getting familiar with GDB and Ghidra for reverse engineering and basic program analysis.
 - **Linux & Open Source:** Customizing Arch Linux (ricing), writing scripts, and diving deeper into Linux internals.
 - **IoT & Hardware:** Exploring how embedded devices work and learning the fundamentals of IoT security.
 - **AI/LLM Security:** Learning about prompt injection and the OWASP LLM Top 10.
 
-### random facts
+### 💡 random facts
 - **Daily Driver:** I use **Arch Linux** (btw) paired with **Hyprland** as my daily driver.
 - **Ricing Habit:** I spend an unreasonable amount of time tweaking my dotfiles, customizing my terminal, and perfecting my Hyprland aesthetic.
 - **Tinkering:** Whether it's software vulnerabilities, IoT hardware, or Linux configs—if it can be broken, modified, or customized, I'm probably messing with it.
+
+### 📊 github stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimm377&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimm377&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</p>
 
 ---
 

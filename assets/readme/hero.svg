@@ -2,6 +2,9 @@
   <title id="title">Dimm - Offensive Security</title>
   <desc id="desc">Minimalist header for Dimm</desc>
 
+  <!-- Stable background for GIF rendering -->
+  <rect width="1200" height="200" fill="#0D1117" />
+
   <g transform="translate(0, 100)">
     <text id="hero-title" x="0" y="0" fill="#E6EDF3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="900" letter-spacing="-2">Dimm</text>
     <text id="hero-subtitle" x="0" y="48" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22">Aspiring Red Teamer • Arch Linux Ricer • Open Source • IoT</text>

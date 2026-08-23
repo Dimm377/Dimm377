@@ -1,0 +1,30 @@
+{
+  "width": 1200,
+  "fps": 30,
+  "duration": 5.0,
+  "colors": 64,
+  "dither": "none",
+  "clip_to_base_alpha": true,
+  "max_size_mb": 2.0,
+  "reveals": [
+    {
+      "id": "hero-accent",
+      "axis": "x",
+      "start": 0.6,
+      "end": 1.2,
+      "exit": {"start": 4.4, "end": 4.8}
+    }
+  ],
+  "layers": [
+    {
+      "id": "hero-title",
+      "enter": {"start": 0.2, "end": 1.0, "from": [0, 10]},
+      "exit": {"start": 4.6, "end": 4.9, "to": [0, 10]}
+    },
+    {
+      "id": "hero-subtitle",
+      "enter": {"start": 0.4, "end": 1.2, "from": [0, 10]},
+      "exit": {"start": 4.4, "end": 4.9, "to": [0, 10]}
+    }
+  ]
+}

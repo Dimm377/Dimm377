@@ -5,26 +5,20 @@
 
 <img src="./assets/readme/about.svg" width="100%" alt="About Me">
 
-- **Offensive Security / Red Team enthusiast** with a strong interest in realistic adversary simulation
-- Focused on learning **realistic attack techniques**, adversary simulation, and offensive tradecraft
-- **Linux Enthusiast** — Open Source believer and daily Linux user
-- Enjoys hands-on labs, CTFs, and security research to sharpen technical depth
+I'm an **Offensive Security enthusiast** specializing in realistic adversary simulation and red team tradecraft. As a daily Linux user and open-source advocate, I spend my time deep-diving into hands-on labs, CTFs, and security research to build practical, real-world technical depth.
 
 <img src="./assets/readme/goal.svg" width="100%" alt="Goal in Cyber Security">
 
-My goal is to pursue a career in **Offensive Security as a Red Team practitioner**, focusing on simulating realistic adversary behavior to help organizations identify and strengthen security weaknesses.
-I am continuously developing my skills in **binary exploitation, advanced web exploitation, and red team tradecraft**, with an emphasis on realistic attack chains, post-exploitation workflows, and operational security (OPSEC).
-I am also working toward obtaining **industry-recognized offensive security and red team certifications** to formally validate my hands-on technical and operational capabilities.
+I'm actively working toward a career as a **Red Team practitioner**. My focus is on executing realistic attack chains, understanding post-exploitation workflows, and maintaining operational security (OPSEC) to help organizations identify complex security weaknesses before threat actors do. I am currently pursuing industry-recognized offensive security certifications to validate these capabilities.
 
 <br>
 <img src="./assets/readme/learning.svg" width="100%" alt="Currently Learning">
 
-- **Binary Exploitation:** Program analysis and debugging using **GDB** and **Ghidra**
-- **Web Exploitation:** **IDOR**, **SQL Injection**, **SSRF**, **SSTI**, authentication bypass
-- **Active Directory Attacks:** AD enumeration, **Kerberos**, privilege escalation, hybrid **Entra ID** attacks
-- **Cloud Security:** AWS/Azure misconfigurations, **IAM privilege escalation**, metadata-service **SSRF**
-- **AI/LLM Security:** **Prompt injection**, adversarial ML basics, **OWASP LLM Top 10**
-- **Red Team Tradecraft:** Payload development and **post-exploitation workflows**
+- **Red Team Tradecraft:** Payload development, AV/EDR evasion, and advanced post-exploitation workflows.
+- **Active Directory & Cloud:** AD enumeration, Kerberos attacks, and hybrid IAM privilege escalation (AWS/Azure/Entra ID).
+- **Advanced Web & API:** Complex attack chains involving IDOR, SSRF, SSTI, and authentication bypass.
+- **Binary Exploitation:** Low-level program analysis, reverse engineering, and debugging using GDB and Ghidra.
+- **AI/LLM Security:** Exploring prompt injection and the OWASP LLM Top 10.
 
 ---
 

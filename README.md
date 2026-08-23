@@ -28,6 +28,7 @@ My main goal right now is to keep learning, breaking things, and understanding h
 
 ### 💡 random facts
 - **Daily Driver:** I use **Arch Linux** (btw) paired with **Hyprland** as my daily driver.
+- **Philosophy:** I strongly believe in the **KISS** (Keep It Simple, Stupid) principle—whether I'm writing code, configuring my system, or building exploit chains.
 - **Ricing Habit:** I spend an unreasonable amount of time tweaking my dotfiles, customizing my terminal, and perfecting my Hyprland aesthetic.
 - **Tinkering:** Whether it's software vulnerabilities, IoT hardware, or Linux configs—if it can be broken, modified, or customized, I'm probably messing with it.
 

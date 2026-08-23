@@ -32,6 +32,16 @@ My main goal right now is to keep learning, breaking things, and understanding h
 - **Ricing Habit:** I spend an unreasonable amount of time tweaking my dotfiles, customizing my terminal, and perfecting my Hyprland aesthetic.
 - **Tinkering:** Whether it's software vulnerabilities, IoT hardware, or Linux configs, if it can be broken, modified, or customized, I'm probably messing with it.
 
+### ✨ featured projects
+<p align="center">
+  <a href="https://github.com/Dimm377/Caelestia-Reforged">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=Caelestia-Reforged&description_lines_count=1&theme=tokyonight" alt="Caelestia-Reforged" width="48%" />
+  </a>
+  <a href="https://github.com/Dimm377/MiniHack-Web-Lab">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=MiniHack-Web-Lab&description_lines_count=1&theme=tokyonight" alt="MiniHack-Web-Lab" width="48%" />
+  </a>
+</p>
+
 ### 📊 github stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dimm377&theme=tokyonight" alt="GitHub Stats" width="48%" />

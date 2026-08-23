@@ -20,3 +20,9 @@ I'm actively working toward a career as a **Red Team practitioner**. My focus is
     <img src="https://tryhackme-badges.s3.amazonaws.com/Wh0isD.png" alt="Dimm TryHackMe Badge" />
   </a>
 </p>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />
+</div>

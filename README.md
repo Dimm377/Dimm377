@@ -1,4 +1,4 @@
-<img src="./assets/readme/hero.gif" width="100%" alt="Dimm - Offensive Security & Realistic Adversary Simulation">
+<img src="./assets/readme/hero.svg" width="100%" alt="Dimm - Offensive Security & Realistic Adversary Simulation">
 
 ### about me
 I'm a **Linux enthusiast** and **Offensive Security student** who loves diving into hands-on labs, CTFs, and security research. I spend most of my free time contributing to **Open Source**, ricing **Arch Linux**, and learning about **Offensive Security** and **IoT**.

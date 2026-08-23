@@ -1,18 +1,17 @@
 <img src="./assets/readme/hero.svg" width="100%" alt="Dimm - Offensive Security & Realistic Adversary Simulation">
 
-### About Me
+### about me
 I'm a **Linux enthusiast** and **Offensive Security student** who loves diving into hands-on labs, CTFs, and security research. I spend most of my free time contributing to **Open Source**, ricing **Arch Linux**, and learning about **Offensive Security** and **IoT**.
 
-### Goal in Cyber Security
-My ultimate goal is to become a **Red Team practitioner**. Right now, I'm focused on learning how to execute realistic attack chains, understanding post-exploitation, and studying operational security (OPSEC). I'm currently working towards industry-recognized certifications to build my skills and break into the field.
+### my goals
+My main goal right now is to keep learning, breaking things, and understanding how they work under the hood. I want to build a solid foundation in offensive security and eventually turn my passion for hacking and Linux into a career as a Red Teamer. I'm also focusing on expanding my knowledge in IoT and contributing more to open-source projects.
 
-### Currently Learning
-- **Red Team Tradecraft:** Payload development, AV/EDR evasion, and advanced post-exploitation workflows.
-- **Active Directory & Cloud:** AD enumeration, Kerberos attacks, and hybrid IAM privilege escalation (AWS/Azure/Entra ID).
-- **Advanced Web & API:** Complex attack chains involving IDOR, SSRF, SSTI, and authentication bypass.
-- **Binary Exploitation:** Low-level program analysis, reverse engineering, and debugging using GDB and Ghidra.
-- **AI/LLM Security:** Exploring prompt injection and the OWASP LLM Top 10.
-- **IoT & Hardware:** Learning the fundamentals of IoT architectures and embedded device security.
+### currently learning
+- **Web & Network Security:** Understanding common vulnerabilities (SQLi, IDOR, SSRF) and the basics of Active Directory enumeration.
+- **Binary Exploitation:** Getting familiar with GDB and Ghidra for reverse engineering and basic program analysis.
+- **Linux & Open Source:** Customizing Arch Linux (ricing), writing scripts, and diving deeper into Linux internals.
+- **IoT & Hardware:** Exploring how embedded devices work and learning the fundamentals of IoT security.
+- **AI/LLM Security:** Learning about prompt injection and the OWASP LLM Top 10.
 
 ---
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=2" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
+  <img src="./assets/readme/hero.svg?v=2" width="100%" alt="D — Linux enthusiast, open source, software, and offensive security" />
 </p>
 
 <p align="center">
@@ -12,14 +12,20 @@ I'm a Linux enthusiast focused on hands-on labs, programming, and system archite
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/Dimm377/Caelestia-Reforged">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=Caelestia-Reforged&theme=tokyonight" alt="Caelestia-Reforged" width="48%" />
-  </a>
-  <a href="https://github.com/Dimm377/CaelestVim">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=CaelestVim&theme=tokyonight" alt="CaelestVim" width="48%" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Dimm377/Caelestia-Reforged">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=Caelestia-Reforged&theme=tokyonight" alt="Caelestia-Reforged" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Dimm377/CaelestVim">
+        <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=CaelestVim&theme=tokyonight" alt="CaelestVim" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Current focus
 
@@ -45,7 +51,7 @@ I'm a Linux enthusiast focused on hands-on labs, programming, and system archite
 
 - **Daily driver:** Arch Linux + Hyprland.
 - **Approach:** keep it simple, understand it under the hood, then customize it.
-- **Tinkering:** if software, hardware, or a Linux config can be improved, I will probably explore it.
+- **Tinkering:** I break things on purpose, understand why they break, then rebuild them better.
 
 ---
 

@@ -1,10 +1,36 @@
-<img src="./assets/readme/hero.svg?v=2" width="100%" alt="D - Linux Enthusiast & Developer">
+<p align="center">
+  <img src="./assets/readme/hero.svg?v=2" width="100%" alt="Dimm — Linux enthusiast, open source, software, and IoT" />
+</p>
 
-### 👨‍💻 about me
-I'm a **Linux enthusiast** who loves diving into hands-on labs, programming, and system architecture. I spend most of my free time contributing to **Open Source**, ricing **Arch Linux**, and learning about **Software Development** and **IoT**.
+<p align="center">
+  Linux enthusiast · open source · software · IoT
+</p>
 
-### 🛠️ skills & tools
-<p>
+## About
+
+I'm a Linux enthusiast focused on hands-on labs, programming, and system architecture. Most of my time goes to learning how systems work under the hood, customizing Arch Linux, and building a foundation across software and IoT.
+
+## Featured projects
+
+<p align="center">
+  <a href="https://github.com/Dimm377/Caelestia-Reforged">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=Caelestia-Reforged&theme=tokyonight" alt="Caelestia-Reforged" width="48%" />
+  </a>
+  <a href="https://github.com/Dimm377/CaelestVim">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=CaelestVim&theme=tokyonight" alt="CaelestVim" width="48%" />
+  </a>
+</p>
+
+## Current focus
+
+- **Web & networking:** backend architecture, APIs, and network fundamentals.
+- **Low-level programming:** C/C++ and memory management.
+- **Linux & open source:** Arch Linux, scripting, system internals, and ricing.
+- **IoT & AI/LLMs:** embedded architecture and practical modern workflows.
+
+## Toolkit
+
+<p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -15,31 +41,11 @@ I'm a **Linux enthusiast** who loves diving into hands-on labs, programming, and
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
 </p>
 
-### 🎯 my goals
-My main goal right now is to keep learning, building things, and understanding how they work under the hood. I want to build a solid foundation in computer science and eventually turn my passion for Linux and programming into a career. I'm also focusing on expanding my knowledge in IoT and contributing more to open-source projects.
+## Principles
 
-### 🧠 currently learning
-- **Web Technologies:** Understanding backend architectures, APIs, and network fundamentals.
-- **Low-level Programming:** Getting familiar with C/C++ and understanding memory management.
-- **Linux & Open Source:** Customizing Arch Linux (ricing), writing scripts, and diving deeper into Linux internals.
-- **IoT & Hardware:** Exploring how embedded devices work and learning the fundamentals of IoT architecture.
-- **AI/LLMs:** Learning about artificial intelligence and integrating LLMs into modern workflows.
-
-### 💡 random facts
-- **Daily Driver:** I use **Arch Linux** (btw) paired with **Hyprland** as my daily driver.
-- **Philosophy:** I strongly believe in the **KISS** (Keep It Simple, Stupid) principle, whether I'm writing code, configuring my system, or building architectures.
-- **Ricing Habit:** I spend an unreasonable amount of time tweaking my dotfiles, customizing my terminal, and perfecting my Hyprland aesthetic.
-- **Tinkering:** Whether it's software engineering, IoT hardware, or Linux configs, if it can be modified or customized, I'm probably messing with it.
-
-### ✨ featured projects
-<p align="center">
-  <a href="https://github.com/Dimm377/Caelestia-Reforged">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=Caelestia-Reforged&theme=tokyonight" alt="Caelestia-Reforged" width="48%" />
-  </a>
-  <a href="https://github.com/Dimm377/CaelestVim">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Dimm377&repo=CaelestVim&theme=tokyonight" alt="CaelestVim" width="48%" />
-  </a>
-</p>
+- **Daily driver:** Arch Linux + Hyprland.
+- **Approach:** keep it simple, understand it under the hood, then customize it.
+- **Tinkering:** if software, hardware, or a Linux config can be improved, I will probably explore it.
 
 ---
 

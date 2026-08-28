@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=2" width="100%" alt="Dimm — Linux enthusiast, open source, software, and IoT" />
+  <img src="./assets/readme/hero.svg?v=2" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
 </p>
 
 <p align="center">
-  Linux enthusiast · open source · software · IoT
+  <img src="https://media1.tenor.com/m/Eqq2p6PhXlcAAAAd/cyber-punk.gif" width="320" alt="Cyberpunk animated artwork" />
 </p>
 
 ## About
 
-I'm a Linux enthusiast focused on hands-on labs, programming, and system architecture. Most of my time goes to learning how systems work under the hood, customizing Arch Linux, and building a foundation across software and IoT.
+I'm a Linux enthusiast focused on hands-on labs, programming, and system architecture. Most of my time goes to learning how systems work under the hood, customizing Arch Linux, and building a foundation across software and offensive security.
 
 ## Featured projects
 
@@ -26,7 +26,7 @@ I'm a Linux enthusiast focused on hands-on labs, programming, and system archite
 - **Web & networking:** backend architecture, APIs, and network fundamentals.
 - **Low-level programming:** C/C++ and memory management.
 - **Linux & open source:** Arch Linux, scripting, system internals, and ricing.
-- **IoT & AI/LLMs:** embedded architecture and practical modern workflows.
+- **Offensive security & AI/LLMs:** security fundamentals and practical modern workflows.
 
 ## Toolkit
 

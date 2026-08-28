@@ -1,4 +1,4 @@
-<img src="./assets/readme/hero.svg?v=2" width="100%" alt="Dimm - Linux Enthusiast & Developer">
+<img src="./assets/readme/hero.svg?v=2" width="100%" alt="D - Linux Enthusiast & Developer">
 
 ### 👨‍💻 about me
 I'm a **Linux enthusiast** who loves diving into hands-on labs, programming, and system architecture. I spend most of my free time contributing to **Open Source**, ricing **Arch Linux**, and learning about **Software Development** and **IoT**.

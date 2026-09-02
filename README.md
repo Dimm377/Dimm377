@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=3" width="100%" alt="D — Linux enthusiast, open source, software, and offensive security" />
+  <img src="./assets/readme/hero.svg?v=3" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
 </p>
 
 <p align="center">

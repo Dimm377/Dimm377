@@ -11,7 +11,7 @@
 
 I'm Dimm. I build practical projects around Linux, systems, web security, and open source. I prefer small, understandable tools, reproducible setups, and learning by testing how things work under the hood.
 
-## What I build
+## What Recently I build
 
 - Arch Linux and Hyprland tooling for a maintainable daily-driver desktop.
 - Local security labs for understanding HTTP, authentication, sessions, databases, and common web vulnerabilities.

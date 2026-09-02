@@ -2,9 +2,6 @@
   <img src="./assets/readme/hero.svg?v=5" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
 </p>
 
-<p align="center">
-  <strong>Linux • Systems • Security • Open Source</strong>
-</p>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/Eqq2p6PhXlcAAAAd/cyber-punk.gif" width="320" alt="Cyberpunk animated artwork" />

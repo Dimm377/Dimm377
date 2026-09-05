@@ -11,7 +11,7 @@
 
 I'm Dimm. I build practical projects around Linux, systems, web security, and open source. I prefer small, understandable tools, reproducible setups, and learning by testing how things work under the hood.
 
-## What Recently I build
+## Recent work
 
 - Arch Linux and Hyprland tooling for a maintainable daily-driver desktop.
 - Local security labs for understanding HTTP, authentication, sessions, databases, and common web vulnerabilities.
@@ -23,8 +23,8 @@ I'm Dimm. I build practical projects around Linux, systems, web security, and op
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/Dimm377/Caelestia-Reforged">Caelestia-Reforged</a></b><br>
-      Arch/Hyprland dotfiles with diagnostics, safe deployment, lifecycle tooling, and automated quality gates.
+      <b><a href="https://github.com/Dimm377/My-Dotfiles-Config">My-Dotfiles-Config</a></b><br>
+      Arch/Hyprland dotfiles and shell tooling for a daily-driver desktop.
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/Dimm377/MiniHack-Web-Lab">MiniHack-Web-Lab</a></b><br>

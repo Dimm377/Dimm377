@@ -15,7 +15,7 @@ I'm Dimm. I build practical projects around Linux, systems, web security, and op
 
 - Arch Linux and Hyprland tooling for a maintainable daily-driver desktop.
 - Local security labs for understanding HTTP, authentication, sessions, databases, and common web vulnerabilities.
-- Small CLI and systems projects in Go, C++, Python, Rust, and shell.
+- Small CLI and systems projects in Go, C++, Python, and bash.
 - Study notes and write-ups that turn hands-on labs into reusable knowledge.
 
 ## Selected work

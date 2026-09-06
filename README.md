@@ -2,45 +2,53 @@
   <img src="./assets/readme/hero.svg?v=5" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
 </p>
 
-I'm Dimm. I build small, inspectable tools around Linux, systems, and web security.
+I build small tools around Linux, systems, and security — usually because I want to understand how something works under the hood.
 
-Most of my projects start with something I want to understand or use myself. I keep refining them until the internals make sense and the setup is reproducible.
+## Featured Projects
 
-## Selected work
-
-### [Noema](https://github.com/Dimm377/Noema)
-
-Local-first semantic retrieval for Markdown knowledge bases. It indexes notes without modifying them and searches by meaning using local embeddings. Indexing and search work; grounded Q&A is still unfinished.
-
-`Python` · `SQLite` · `sqlite-vec` · `E5 embeddings`
-
-### [MiniHack Web Lab](https://github.com/Dimm377/MiniHack-Web-Lab)
-
-A local PHP/SQLite app for understanding how HTTP requests, authentication, sessions, and database queries shape server behavior. A secure application baseline sits alongside learning challenges built around query parameters, response headers, and page source.
-
-`PHP` · `SQLite` · `HTTP` · `Web Security`
-
-### [Arch + Caelestia Dotfiles](https://github.com/Dimm377/My-Dotfiles-Config)
-
-My Arch Linux workstation configuration for Caelestia and Hyprland, with a documented restore process using GNU Stow. Overrides stay close to upstream through Caelestia's existing extension points, without an extra installation framework.
-
-`Arch Linux` · `Hyprland` · `Fish` · `Lua` · `Shell`
-
-## More
-
-- [Hyprspace](https://github.com/Dimm377/Hyprspace) — fork of a workspace overview plugin for Hyprland.
-- [CaelestVim](https://github.com/Dimm377/CaelestVim) — Neovim configuration based on LazyVim.
-- [OverTheWire Writeups](https://github.com/Dimm377/OverTheWire-Writeups) — Bandit lab notes on Linux commands and SSH.
-
-## Currently
-
-Working on local knowledge retrieval, web security labs, Linux tooling, and lower-level systems programming.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dimm377/Noema">Noema</a></h3>
+      <p>Local-first semantic search for Markdown knowledge bases.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-30363d?style=flat" alt="Python" />
+        <img src="https://img.shields.io/badge/sqlite--vec-30363d?style=flat" alt="sqlite-vec" />
+        <img src="https://img.shields.io/badge/E5-30363d?style=flat" alt="E5 embeddings" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dimm377/MiniHack-Web-Lab">MiniHack Web Lab</a></h3>
+      <p>A local lab for tracing how HTTP, authentication, and sessions shape web application security.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-30363d?style=flat" alt="PHP" />
+        <img src="https://img.shields.io/badge/SQLite-30363d?style=flat" alt="SQLite" />
+        <img src="https://img.shields.io/badge/HTTP-30363d?style=flat" alt="HTTP" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/Dimm377/My-Dotfiles-Config">Arch + Caelestia Dotfiles</a></h3>
+      <p>My reproducible Arch/Hyprland configuration, managed with GNU Stow and kept close to Caelestia upstream.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Arch_Linux-30363d?style=flat" alt="Arch Linux" />
+        <img src="https://img.shields.io/badge/Hyprland-30363d?style=flat" alt="Hyprland" />
+        <img src="https://img.shields.io/badge/GNU_Stow-30363d?style=flat" alt="GNU Stow" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Tools
 
-`Linux` · `Python` · `C++` · `PHP` · `Shell` · `Neovim` · `Git`
-
----
+<p>
+  <img src="https://img.shields.io/badge/Linux-30363d?style=flat" alt="Linux" />
+  <img src="https://img.shields.io/badge/Go-30363d?style=flat" alt="Go" />
+  <img src="https://img.shields.io/badge/Shell-30363d?style=flat" alt="Shell" />
+  <img src="https://img.shields.io/badge/Neovim-30363d?style=flat" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Git-30363d?style=flat" alt="Git" />
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dimm377/Dimm377/output/snake.svg" alt="Snake animation" />

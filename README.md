@@ -2,7 +2,7 @@
   <img src="./assets/readme/hero.svg?v=5" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
 </p>
 
-I build small tools around Linux, systems, and security — usually because I want to understand how something works under the hood.
+I build small tools around Linux, systems, and security,  usually because I want to understand how something works under the hood.
 
 ## Featured Projects
 

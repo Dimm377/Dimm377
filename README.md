@@ -2,7 +2,7 @@
   <img src="./assets/readme/hero.svg?v=5" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
 </p>
 
-I build small tools around Linux, systems, and security,  usually because I want to understand how something works under the hood.
+I build small tools around Linux, systems, and security, usually because I want to understand how something works under the hood.
 
 ## Featured Projects
 
@@ -28,13 +28,22 @@ I build small tools around Linux, systems, and security,  usually because I want
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/My-Dotfiles-Config">Arch + Caelestia Dotfiles</a></h3>
       <p>My reproducible Arch/Hyprland configuration, managed with GNU Stow and kept close to Caelestia upstream.</p>
       <p>
         <img src="https://img.shields.io/badge/Arch_Linux-30363d?style=flat" alt="Arch Linux" />
         <img src="https://img.shields.io/badge/Hyprland-30363d?style=flat" alt="Hyprland" />
         <img src="https://img.shields.io/badge/GNU_Stow-30363d?style=flat" alt="GNU Stow" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dimm377/picoCTF-Casefiles">picoCTF Casefiles</a></h3>
+      <p>A collection of picoCTF writeups with my usual sarcasm still technical, still useful, just less boring</p>
+      <p>
+        <img src="https://img.shields.io/badge/picoCTF-30363d?style=flat" alt="picoCTF" />
+        <img src="https://img.shields.io/badge/Markdown-30363d?style=flat" alt="Markdown" />
+        <img src="https://img.shields.io/badge/Security-30363d?style=flat" alt="Security" />
       </p>
     </td>
   </tr>

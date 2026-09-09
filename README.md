@@ -4,6 +4,10 @@
 
 I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.
 
+<p align="center">
+  <a href="https://tenor.com/view/haruno-haruno-yukinoshita-snafu-oregairu-my-teen-romantic-comedy-gif-17783538"><img src="https://media1.tenor.com/m/u_ffZflBYIAAAAAC/haruno-haruno-yukinoshita.gif" width="100%" alt="Haruno Yukinoshita GIF" /></a>
+</p>
+
 ## Stuff I Actually Build
 
 <table>

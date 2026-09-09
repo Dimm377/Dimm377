@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=5" width="100%" alt="Dimm — Linux enthusiast, open source, software, and offensive security" />
+  <img src="./assets/readme/hero.svg?v=6" width="100%" alt="Dimm — Linux Enthusiast • Open Source Enjoyer • Security Nerd" />
 </p>
 
-I build small tools around Linux, systems, and security, usually because I want to understand how something works under the hood.
+I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.
 
-## Featured Projects
+## Stuff I Actually Build
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Noema">Noema</a></h3>
-      <p>Local-first semantic search for Markdown knowledge bases.</p>
+      <p>Local-first semantic search for my Markdown brain dump. Turns out <code>grep</code> can't solve everything. Obviously.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-30363d?style=flat" alt="Python" />
         <img src="https://img.shields.io/badge/sqlite--vec-30363d?style=flat" alt="sqlite-vec" />
@@ -19,7 +19,7 @@ I build small tools around Linux, systems, and security, usually because I want 
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/MiniHack-Web-Lab">MiniHack Web Lab</a></h3>
-      <p>A local lab for tracing how HTTP, authentication, and sessions shape web application security.</p>
+      <p>A tiny web security lab where I mess with HTTP, auth, and sessions until things start making sense.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-30363d?style=flat" alt="PHP" />
         <img src="https://img.shields.io/badge/SQLite-30363d?style=flat" alt="SQLite" />
@@ -30,7 +30,7 @@ I build small tools around Linux, systems, and security, usually because I want 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/My-Dotfiles-Config">Arch + Caelestia Dotfiles</a></h3>
-      <p>My reproducible Arch/Hyprland configuration, managed with GNU Stow and kept close to Caelestia upstream.</p>
+      <p>My Linux LARPing config. Arch + Hyprland, because normal desktops were too boring.</p>
       <p>
         <img src="https://img.shields.io/badge/Arch_Linux-30363d?style=flat" alt="Arch Linux" />
         <img src="https://img.shields.io/badge/Hyprland-30363d?style=flat" alt="Hyprland" />
@@ -39,7 +39,7 @@ I build small tools around Linux, systems, and security, usually because I want 
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/picoCTF-Casefiles">picoCTF Casefiles</a></h3>
-      <p>A collection of picoCTF writeups with my usual sarcasm still technical, still useful, just less boring</p>
+      <p>picoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
       <p>
         <img src="https://img.shields.io/badge/picoCTF-30363d?style=flat" alt="picoCTF" />
         <img src="https://img.shields.io/badge/Markdown-30363d?style=flat" alt="Markdown" />
@@ -49,14 +49,16 @@ I build small tools around Linux, systems, and security, usually because I want 
   </tr>
 </table>
 
-## Tools
+## Stuff I Use
 
 <p>
   <img src="https://img.shields.io/badge/Linux-30363d?style=flat" alt="Linux" />
   <img src="https://img.shields.io/badge/Go-30363d?style=flat" alt="Go" />
   <img src="https://img.shields.io/badge/Shell-30363d?style=flat" alt="Shell" />
+  <img src="https://img.shields.io/badge/Python-30363d?style=flat" alt="Python" />
   <img src="https://img.shields.io/badge/Neovim-30363d?style=flat" alt="Neovim" />
-  <img src="https://img.shields.io/badge/Git-30363d?style=flat" alt="Git" />
+  <img src="https://img.shields.io/badge/C%2B%2B-30363d?style=flat" alt="C++" />
+  <img src="https://img.shields.io/badge/Burp_Suite-30363d?style=flat" alt="Burp Suite" />
 </p>
 
 <div align="center">

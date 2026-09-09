@@ -5,7 +5,7 @@
 I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.
 
 <p align="center">
-  <a href="https://tenor.com/view/haruno-haruno-yukinoshita-snafu-oregairu-my-teen-romantic-comedy-gif-17783538"><img src="https://media1.tenor.com/m/u_ffZflBYIAAAAAC/haruno-haruno-yukinoshita.gif" width="100%" alt="Haruno Yukinoshita GIF" /></a>
+  <a href="https://tenor.com/view/haruno-haruno-yukinoshita-snafu-oregairu-my-teen-romantic-comedy-gif-17783538"><img src="https://media1.tenor.com/m/u_ffZflBYIAAAAAC/haruno-haruno-yukinoshita.gif" width="500" alt="Haruno Yukinoshita GIF" /></a>
 </p>
 
 ## Stuff I Actually Build
@@ -16,18 +16,18 @@ I build stuff around Linux, systems, and security, mostly because “how does th
       <h3><a href="https://github.com/Dimm377/Noema">Noema</a></h3>
       <p>Local-first semantic search for my Markdown brain dump. Turns out <code>grep</code> can't solve everything. Obviously.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-30363d?style=flat" alt="Python" />
-        <img src="https://img.shields.io/badge/sqlite--vec-30363d?style=flat" alt="sqlite-vec" />
-        <img src="https://img.shields.io/badge/E5-30363d?style=flat" alt="E5 embeddings" />
+        <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+        <img src="https://img.shields.io/badge/sqlite--vec-0D1117?style=for-the-badge&logo=sqlite&logoColor=3CA3DC" alt="sqlite-vec" />
+        <img src="https://img.shields.io/badge/E5-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="E5 embeddings" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/MiniHack-Web-Lab">MiniHack Web Lab</a></h3>
       <p>A tiny web security lab where I mess with HTTP, auth, and sessions until things start making sense.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-30363d?style=flat" alt="PHP" />
-        <img src="https://img.shields.io/badge/SQLite-30363d?style=flat" alt="SQLite" />
-        <img src="https://img.shields.io/badge/HTTP-30363d?style=flat" alt="HTTP" />
+        <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+        <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=3CA3DC" alt="SQLite" />
+        <img src="https://img.shields.io/badge/HTTP-0D1117?style=for-the-badge&logo=httpie&logoColor=73DC8C" alt="HTTP" />
       </p>
     </td>
   </tr>
@@ -36,18 +36,18 @@ I build stuff around Linux, systems, and security, mostly because “how does th
       <h3><a href="https://github.com/Dimm377/My-Dotfiles-Config">Arch + Caelestia Dotfiles</a></h3>
       <p>My Linux LARPing config. Arch + Hyprland, because normal desktops were too boring.</p>
       <p>
-        <img src="https://img.shields.io/badge/Arch_Linux-30363d?style=flat" alt="Arch Linux" />
-        <img src="https://img.shields.io/badge/Hyprland-30363d?style=flat" alt="Hyprland" />
-        <img src="https://img.shields.io/badge/GNU_Stow-30363d?style=flat" alt="GNU Stow" />
+        <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
+        <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland" />
+        <img src="https://img.shields.io/badge/GNU_Stow-0D1117?style=for-the-badge&logo=gnu&logoColor=A42E2B" alt="GNU Stow" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/picoCTF-Casefiles">picoCTF Casefiles</a></h3>
       <p>picoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
       <p>
-        <img src="https://img.shields.io/badge/picoCTF-30363d?style=flat" alt="picoCTF" />
-        <img src="https://img.shields.io/badge/Markdown-30363d?style=flat" alt="Markdown" />
-        <img src="https://img.shields.io/badge/Security-30363d?style=flat" alt="Security" />
+        <img src="https://img.shields.io/badge/picoCTF-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="picoCTF" />
+        <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown" />
+        <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
       </p>
     </td>
   </tr>
@@ -56,13 +56,13 @@ I build stuff around Linux, systems, and security, mostly because “how does th
 ## Stuff I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-30363d?style=flat" alt="Linux" />
-  <img src="https://img.shields.io/badge/Go-30363d?style=flat" alt="Go" />
-  <img src="https://img.shields.io/badge/Shell-30363d?style=flat" alt="Shell" />
-  <img src="https://img.shields.io/badge/Python-30363d?style=flat" alt="Python" />
-  <img src="https://img.shields.io/badge/Neovim-30363d?style=flat" alt="Neovim" />
-  <img src="https://img.shields.io/badge/C%2B%2B-30363d?style=flat" alt="C++" />
-  <img src="https://img.shields.io/badge/Burp_Suite-30363d?style=flat" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Shell" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Neovim-0D1117?style=for-the-badge&logo=neovim&logoColor=57A143" alt="Neovim" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=portswigger&logoColor=FF6633" alt="Burp Suite" />
 </p>
 
 <div align="center">

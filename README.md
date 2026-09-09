@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=6" width="100%" alt="Dimm — Linux Enthusiast • Open Source Enjoyer • Security Nerd" />
+  <img src="./assets/readme/hero.svg?v=7" width="100%" alt="Dimm — Linux Enthusiast • Open Source Enjoyer • Offsec Learner" />
 </p>
 
 I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.

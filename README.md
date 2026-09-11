@@ -5,7 +5,7 @@
 I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.
 
 <p align="center">
-  <img src="https://tenor.com/view/snafu-my-teen-romantic-comedy-snafu-yahari-ore-no-seishun-rabukome-wa-machigatteiru-yukino-yukinoshita-gif-7421853086296374689" alt="Yukino Yukinoshita" width="400" />
+  <img src="https://media1.tenor.com/m/Zv-4Dy_U_aEAAAAd/snafu-my-teen-romantic-comedy-snafu.gif" alt="Yukino Yukinoshita" width="400" />
 </p>
 
 ## Stuff I Actually Build

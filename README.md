@@ -51,6 +51,26 @@ I build stuff around Linux, systems, and security, mostly because “how does th
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dimm377/Movie-web">Movie-web</a></h3>
+      <p>A React app for browsing movies and trailers. I mostly use it to pretend I’m not about to rewatch the same three films.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+        <img src="https://img.shields.io/badge/TMDB-0D1117?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4" alt="TMDB" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dimm377/Market-Billing-System">Market Billing System</a></h3>
+      <p>A C++ supermarket billing system with products, discounts, and receipts. Turns out even a bag of chips needs admin access.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+        <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" alt="Console application" />
+        <img src="https://img.shields.io/badge/File_I%2FO-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF" alt="File I/O" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## Stuff I Use

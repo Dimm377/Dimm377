@@ -4,7 +4,9 @@
 
 I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.
 
-<div class="tenor-gif-embed" data-postid="7421853086296374689" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/snafu-my-teen-romantic-comedy-snafu-yahari-ore-no-seishun-rabukome-wa-machigatteiru-yukino-yukinoshita-gif-7421853086296374689">Snafu My Teen Romantic Comedy Snafu GIF</a>from <a href="https://tenor.com/search/snafu-gifs">Snafu GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://tenor.com/view/snafu-my-teen-romantic-comedy-snafu-yahari-ore-no-seishun-rabukome-wa-machigatteiru-yukino-yukinoshita-gif-7421853086296374689" alt="Yukino Yukinoshita" width="400" />
+</p>
 
 ## Stuff I Actually Build
 

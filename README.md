@@ -14,7 +14,7 @@ I build stuff around Linux, systems, and security, mostly because “how does th
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Noema">Noema</a></h3>
-      <p>Local-first semantic search for my Markdown brain dump. Turns out <code>grep</code> can't solve everything. Obviously.</p>
+      <p>Local-first semantic search for my Markdown brain dump. <code>grep</code> can't solve everything. Obviously.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
         <img src="https://img.shields.io/badge/sqlite--vec-0D1117?style=for-the-badge&logo=sqlite&logoColor=3CA3DC" alt="sqlite-vec" />
@@ -63,7 +63,7 @@ I build stuff around Linux, systems, and security, mostly because “how does th
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Market-Billing-System">Market Billing System</a></h3>
-      <p>A C++ supermarket billing system with products, discounts, and receipts. Turns out even a bag of chips needs admin access.</p>
+      <p>A C++ supermarket billing system with products, discounts, and receipts. even a bag of chips needs admin access.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
         <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" alt="Console application" />

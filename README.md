@@ -4,10 +4,6 @@
 
 I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/Zv-4Dy_U_aEAAAAd/snafu-my-teen-romantic-comedy-snafu.gif" alt="Yukino Yukinoshita" width="400" />
-</p>
-
 ## Stuff I Actually Build
 
 <table>

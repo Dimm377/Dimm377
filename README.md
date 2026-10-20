@@ -19,11 +19,11 @@ I build stuff around Linux, systems, and security, mostly because “how does th
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/MiniHack-Web-Lab">MiniHack Web Lab</a></h3>
-      <p>A tiny web security lab where I mess with HTTP, auth, and sessions until things start making sense.</p>
+      <p>A compact local HTTP security workbench for dissecting client-server mechanics, defensive auth, and hands-on challenges without framework bloat.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+        <img src="https://img.shields.io/badge/PHP_8-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP 8" />
         <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=3CA3DC" alt="SQLite" />
-        <img src="https://img.shields.io/badge/HTTP-0D1117?style=for-the-badge&logo=httpie&logoColor=73DC8C" alt="HTTP" />
+        <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
       </p>
     </td>
   </tr>

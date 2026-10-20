@@ -9,16 +9,16 @@ I build stuff around Linux, systems, and security, mostly because “how does th
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Dimm377/Noema">Noema</a></h3>
-      <p>Local-first semantic search for my Markdown brain dump. <code>grep</code> can't solve everything. Obviously.</p>
+      <h3><a href="https://github.com/Dimm377/hyprspatial">hyprspatial</a></h3>
+      <p>Spatial display switcher and multi-monitor management overlay for Hyprland with automated failsafe rollback.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-        <img src="https://img.shields.io/badge/sqlite--vec-0D1117?style=for-the-badge&logo=sqlite&logoColor=3CA3DC" alt="sqlite-vec" />
-        <img src="https://img.shields.io/badge/E5-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="E5 embeddings" />
+        <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland" />
+        <img src="https://img.shields.io/badge/Quickshell-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52" alt="Quickshell" />
+        <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Dimm377/MiniHack-Web-Lab">MiniHack Web Lab</a></h3>
+      <h3><a href="https://github.com/Dimm377/MiniHack-Lab">MiniHack Web Lab</a></h3>
       <p>A compact local HTTP security workbench for dissecting client-server mechanics, defensive auth, and hands-on challenges without framework bloat.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP_8-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP 8" />

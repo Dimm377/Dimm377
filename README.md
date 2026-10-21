@@ -6,6 +6,33 @@ I build stuff around Linux, systems, and security, mostly because “how does th
 
 ## Stuff I Actually Build
 
+```mermaid
+flowchart TD
+  subgraph SYSTEMS ["🐧 Linux & Systems"]
+    H["hyprspatial<br/><sub>Spatial Display Switcher</sub>"]
+    D["Arch + Caelestia<br/><sub>Hyprland Dotfiles</sub>"]
+  end
+
+  subgraph SECURITY ["🛡️ Offensive & Defensive Security"]
+    P["Paramiko Honeypot<br/><sub>SSH Fake Shell & Telemetry</sub>"]
+    M["MiniHack Web Lab<br/><sub>HTTP Security Workbench</sub>"]
+    C["picoCTF Casefiles<br/><sub>Writeups & Tooling</sub>"]
+  end
+
+  subgraph APPS ["⚡ Applications & Tools"]
+    W["Movie-web<br/><sub>React + Vite Streaming Client</sub>"]
+    B["Market Billing System<br/><sub>C++ Terminal POS</sub>"]
+  end
+
+  click H "https://github.com/Dimm377/hyprspatial" "Explore hyprspatial"
+  click D "https://github.com/Dimm377/My-Dotfiles-Config" "Explore Arch Dotfiles"
+  click P "https://github.com/Dimm377/Paramiko-Honeypot" "Explore Paramiko Honeypot"
+  click M "https://github.com/Dimm377/MiniHack-Lab" "Explore MiniHack Web Lab"
+  click C "https://github.com/Dimm377/picoCTF-Casefiles" "Explore picoCTF Casefiles"
+  click W "https://github.com/Dimm377/Movie-web" "Explore Movie-web"
+  click B "https://github.com/Dimm377/Market-Billing-System" "Explore Market Billing System"
+```
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -29,6 +56,15 @@ I build stuff around Linux, systems, and security, mostly because “how does th
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dimm377/Paramiko-Honeypot">Paramiko Honeypot</a></h3>
+      <p>An educational SSH honeypot with simulated Ubuntu shell, bounded thread concurrency, and telemetry logging.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python 3" />
+        <img src="https://img.shields.io/badge/Paramiko-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF" alt="Paramiko" />
+        <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/My-Dotfiles-Config">Arch + Caelestia Dotfiles</a></h3>
       <p>My Linux LARPing config. Arch + Hyprland, because normal desktops were too boring.</p>
       <p>
@@ -37,6 +73,8 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/GNU_Stow-0D1117?style=for-the-badge&logo=gnu&logoColor=A42E2B" alt="GNU Stow" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/picoCTF-Casefiles">picoCTF Casefiles</a></h3>
       <p>PicoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
@@ -46,8 +84,6 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Movie-web">Movie-web</a></h3>
       <p>A React app for browsing movies and trailers. I mostly use it to pretend I’m not about to rewatch the same three films.</p>
@@ -57,6 +93,8 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/TMDB-0D1117?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4" alt="TMDB" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Market-Billing-System">Market Billing System</a></h3>
       <p>A C++ supermarket billing system with products, discounts, and receipts. Even a bag of chips needs admin access.</p>
@@ -65,6 +103,8 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" alt="Console application" />
         <img src="https://img.shields.io/badge/File_I%2FO-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF" alt="File I/O" />
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>

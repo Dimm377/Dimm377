@@ -6,88 +6,85 @@ I build stuff around Linux, systems, and security, mostly because “how does th
 
 ## Stuff I Actually Build
 
-<details open>
-  <summary><b>🐧 hyprspatial</b> — Spatial display switcher & multi-monitor overlay for Hyprland</summary>
-  <br/>
-  <p>Spatial display switcher and multi-monitor management overlay for Hyprland with automated failsafe rollback.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland" />
-    <img src="https://img.shields.io/badge/Quickshell-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52" alt="Quickshell" />
-    <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-  </p>
-  <p>👉 <a href="https://github.com/Dimm377/hyprspatial"><b>github.com/Dimm377/hyprspatial &rarr;</b></a></p>
-</details>
-
-<details open>
-  <summary><b>🛡️ Paramiko Honeypot</b> — Hardened educational SSH honeypot & fake shell</summary>
-  <br/>
-  <p>An educational SSH honeypot with simulated Ubuntu 22.04 shell, bounded thread concurrency, and credential telemetry logging.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Python_3-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python 3" />
-    <img src="https://img.shields.io/badge/Paramiko-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF" alt="Paramiko" />
-    <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
-  </p>
-  <p>👉 <a href="https://github.com/Dimm377/Paramiko-Honeypot"><b>github.com/Dimm377/Paramiko-Honeypot &rarr;</b></a></p>
-</details>
-
 <details>
-  <summary><b>🛡️ MiniHack Web Lab</b> — Compact local HTTP security workbench</summary>
+  <summary><b>📦 Featured Projects & Showcases (Click to expand table)</b> — <i>hyprspatial • Paramiko Honeypot • MiniHack • Dotfiles • picoCTF • Movie-web • Billing</i></summary>
   <br/>
-  <p>A compact local HTTP security workbench for dissecting client-server mechanics, defensive auth, and hands-on challenges without framework bloat.</p>
-  <p>
-    <img src="https://img.shields.io/badge/PHP_8-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP 8" />
-    <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=3CA3DC" alt="SQLite" />
-    <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
-  </p>
-  <p>👉 <a href="https://github.com/Dimm377/MiniHack-Lab"><b>github.com/Dimm377/MiniHack-Lab &rarr;</b></a></p>
-</details>
 
-<details>
-  <summary><b>🐧 Arch + Caelestia Dotfiles</b> — Linux LARPing config (Arch + Hyprland)</summary>
-  <br/>
-  <p>My Linux LARPing config. Arch + Hyprland, because normal desktops were too boring.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
-    <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland" />
-    <img src="https://img.shields.io/badge/GNU_Stow-0D1117?style=for-the-badge&logo=gnu&logoColor=A42E2B" alt="GNU Stow" />
-  </p>
-  <p>👉 <a href="https://github.com/Dimm377/My-Dotfiles-Config"><b>github.com/Dimm377/My-Dotfiles-Config &rarr;</b></a></p>
-</details>
-
-<details>
-  <summary><b>🛡️ picoCTF Casefiles</b> — Technical & readable security writeups</summary>
-  <br/>
-  <p>PicoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
-  <p>
-    <img src="https://img.shields.io/badge/picoCTF-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTEiIGZpbGw9IiM3NjY3QTgiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNyA0aDZhNiA2IDAgMCAxIDAgMTJoLTN2NUg3VjR6bTMgM3Y2aDNhMyAzIDAgMCAwIDAtNmgtM3oiLz48Y2lyY2xlIGN4PSIxMyIgY3k9IjEwIiByPSIyIiBmaWxsPSIjRTk0QjVGIi8+PC9zdmc+" alt="picoCTF" />
-    <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown" />
-    <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
-  </p>
-  <p>👉 <a href="https://github.com/Dimm377/picoCTF-Casefiles"><b>github.com/Dimm377/picoCTF-Casefiles &rarr;</b></a></p>
-</details>
-
-<details>
-  <summary><b>⚡ Movie-web</b> — React + Vite streaming & trailer browser</summary>
-  <br/>
-  <p>A React app for browsing movies and trailers. I mostly use it to pretend I’m not about to rewatch the same three films.</p>
-  <p>
-    <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-    <img src="https://img.shields.io/badge/TMDB-0D1117?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4" alt="TMDB" />
-  </p>
-  <p>👉 <a href="https://github.com/Dimm377/Movie-web"><b>github.com/Dimm377/Movie-web &rarr;</b></a></p>
-</details>
-
-<details>
-  <summary><b>⚡ Market Billing System</b> — C++ supermarket billing console app</summary>
-  <br/>
-  <p>A C++ supermarket billing system with products, discounts, and receipts. Even a bag of chips needs admin access.</p>
-  <p>
-    <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-    <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" alt="Console application" />
-    <img src="https://img.shields.io/badge/File_I%2FO-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF" alt="File I/O" />
-  </p>
-  <p>👉 <a href="https://github.com/Dimm377/Market-Billing-System"><b>github.com/Dimm377/Market-Billing-System &rarr;</b></a></p>
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/Dimm377/hyprspatial">hyprspatial</a></h3>
+        <p>Spatial display switcher and multi-monitor management overlay for Hyprland with automated failsafe rollback.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland" />
+          <img src="https://img.shields.io/badge/Quickshell-0D1117?style=for-the-badge&logo=qt&logoColor=41CD52" alt="Quickshell" />
+          <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/Dimm377/Paramiko-Honeypot">Paramiko Honeypot</a></h3>
+        <p>An educational SSH honeypot with simulated Ubuntu shell, bounded thread concurrency, and telemetry logging.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python_3-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python 3" />
+          <img src="https://img.shields.io/badge/Paramiko-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF" alt="Paramiko" />
+          <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/Dimm377/MiniHack-Lab">MiniHack Web Lab</a></h3>
+        <p>A compact local HTTP security workbench for dissecting client-server mechanics, defensive auth, and hands-on challenges without framework bloat.</p>
+        <p>
+          <img src="https://img.shields.io/badge/PHP_8-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP 8" />
+          <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=3CA3DC" alt="SQLite" />
+          <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/Dimm377/My-Dotfiles-Config">Arch + Caelestia Dotfiles</a></h3>
+        <p>My Linux LARPing config. Arch + Hyprland, because normal desktops were too boring.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
+          <img src="https://img.shields.io/badge/Hyprland-0D1117?style=for-the-badge&logo=hyprland&logoColor=58E1FF" alt="Hyprland" />
+          <img src="https://img.shields.io/badge/GNU_Stow-0D1117?style=for-the-badge&logo=gnu&logoColor=A42E2B" alt="GNU Stow" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/Dimm377/picoCTF-Casefiles">picoCTF Casefiles</a></h3>
+        <p>PicoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
+        <p>
+          <img src="https://img.shields.io/badge/picoCTF-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTEiIGZpbGw9IiM3NjY3QTgiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNyA0aDZhNiA2IDAgMCAxIDAgMTJoLTN2NUg3VjR6bTMgM3Y2aDNhMyAzIDAgMCAwIDAtNmgtM3oiLz48Y2lyY2xlIGN4PSIxMyIgY3k9IjEwIiByPSIyIiBmaWxsPSIjRTk0QjVGIi8+PC9zdmc+" alt="picoCTF" />
+          <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown" />
+          <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/Dimm377/Movie-web">Movie-web</a></h3>
+        <p>A React app for browsing movies and trailers. I mostly use it to pretend I’m not about to rewatch the same three films.</p>
+        <p>
+          <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+          <img src="https://img.shields.io/badge/TMDB-0D1117?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4" alt="TMDB" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3><a href="https://github.com/Dimm377/Market-Billing-System">Market Billing System</a></h3>
+        <p>A C++ supermarket billing system with products, discounts, and receipts. Even a bag of chips needs admin access.</p>
+        <p>
+          <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+          <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" alt="Console application" />
+          <img src="https://img.shields.io/badge/File_I%2FO-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF" alt="File I/O" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+      </td>
+    </tr>
+  </table>
 </details>
 
 ## Stuff I Use

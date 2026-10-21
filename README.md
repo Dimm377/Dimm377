@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/readme/hero.svg?v=7" width="100%" alt="Dimm — Linux Enthusiast • Open Source Enjoyer • Offsec Learner" />
+  <img src="./assets/readme/hero.svg?v=8" width="100%" alt="Dimm — Linux Enthusiast • Open Source Enjoyer • Offsec Learner" />
 </p>
 
 I build stuff around Linux, systems, and security, mostly because “how does this actually work?” keeps ruining my free time.
@@ -39,7 +39,7 @@ I build stuff around Linux, systems, and security, mostly because “how does th
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/picoCTF-Casefiles">picoCTF Casefiles</a></h3>
-      <p>picoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
+      <p>PicoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
       <p>
         <img src="https://img.shields.io/badge/picoCTF-0D1117?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTEiIGZpbGw9IiM3NjY3QTgiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNyA0aDZhNiA2IDAgMCAxIDAgMTJoLTN2NUg3VjR6bTMgM3Y2aDNhMyAzIDAgMCAwIDAtNmgtM3oiLz48Y2lyY2xlIGN4PSIxMyIgY3k9IjEwIiByPSIyIiBmaWxsPSIjRTk0QjVGIi8+PC9zdmc+" alt="picoCTF" />
         <img src="https://img.shields.io/badge/Markdown-0D1117?style=for-the-badge&logo=markdown&logoColor=FFFFFF" alt="Markdown" />
@@ -59,7 +59,7 @@ I build stuff around Linux, systems, and security, mostly because “how does th
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Market-Billing-System">Market Billing System</a></h3>
-      <p>A C++ supermarket billing system with products, discounts, and receipts. even a bag of chips needs admin access.</p>
+      <p>A C++ supermarket billing system with products, discounts, and receipts. Even a bag of chips needs admin access.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
         <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" alt="Console application" />

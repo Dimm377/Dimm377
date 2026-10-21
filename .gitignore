@@ -1,0 +1,13 @@
+# Editor & IDE artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build & temporary outputs
+dist/
+node_modules/

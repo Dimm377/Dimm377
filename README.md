@@ -18,6 +18,17 @@ I build stuff around Linux, systems, and security, mostly because “how does th
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Dimm377/Paramiko-Honeypot">Paramiko Honeypot</a></h3>
+      <p>An educational SSH honeypot with a fake Ubuntu shell, bounded thread concurrency, and credential telemetry logging.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python 3" />
+        <img src="https://img.shields.io/badge/Paramiko-0D1117?style=for-the-badge&logo=openssh&logoColor=FFFFFF" alt="Paramiko" />
+        <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/MiniHack-Lab">MiniHack Web Lab</a></h3>
       <p>A compact local HTTP security workbench for dissecting client-server mechanics, defensive auth, and hands-on challenges without framework bloat.</p>
       <p>
@@ -26,8 +37,6 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/My-Dotfiles-Config">Arch + Caelestia Dotfiles</a></h3>
       <p>My Linux LARPing config. Arch + Hyprland, because normal desktops were too boring.</p>
@@ -37,6 +46,8 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/GNU_Stow-0D1117?style=for-the-badge&logo=gnu&logoColor=A42E2B" alt="GNU Stow" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/picoCTF-Casefiles">picoCTF Casefiles</a></h3>
       <p>PicoCTF casefiles, technical enough to be useful and sarcastic enough to stay readable.</p>
@@ -46,8 +57,6 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=owasp&logoColor=48A9E6" alt="Security" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Movie-web">Movie-web</a></h3>
       <p>A React app for browsing movies and trailers. I mostly use it to pretend I’m not about to rewatch the same three films.</p>
@@ -57,6 +66,8 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/TMDB-0D1117?style=for-the-badge&logo=themoviedatabase&logoColor=01B4E4" alt="TMDB" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Dimm377/Market-Billing-System">Market Billing System</a></h3>
       <p>A C++ supermarket billing system with products, discounts, and receipts. Even a bag of chips needs admin access.</p>
@@ -65,6 +76,8 @@ I build stuff around Linux, systems, and security, mostly because “how does th
         <img src="https://img.shields.io/badge/Terminal-0D1117?style=for-the-badge&logo=gnometerminal&logoColor=FFFFFF" alt="Console application" />
         <img src="https://img.shields.io/badge/File_I%2FO-0D1117?style=for-the-badge&logo=readthedocs&logoColor=8CA1AF" alt="File I/O" />
       </p>
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
